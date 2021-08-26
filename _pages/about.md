@@ -14,6 +14,6 @@ Prior to this I worked as Visiting Researcher in [Electronics and Communication 
 
 ## News
 
-* (August 2021) Presented our work on *Estimating eigenvalues of symmetric indefinite matrices using random submatrices* [poster](https://drive.google.com/file/d/1YiBQzSQ7trBYcctzdalm0E1A6d7HbjUB/view?usp=sharing).
+* (August 2021) Presented our work on *Estimating eigenvalues of symmetric indefinite matrices using random submatrices* [poster](https://drive.google.com/file/d/1YiBQzSQ7trBYcctzdalm0E1A6d7HbjUB/view?usp=sharing) at [WALDi(O) 2021](https://waldo2021.github.io/).
 
-* (June 2021) Presented our work on *Kernel approximation in sliding window models* [poster](https://www.local-algorithms.com/posters/archan.pdf).
+* (June 2021) Presented our work on *Kernel approximation in sliding window models* [poster](https://www.local-algorithms.com/posters/archan.pdf) at [WOLA 2021](https://www.local-algorithms.com/).
