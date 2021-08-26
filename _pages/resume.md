@@ -7,7 +7,7 @@ author_profile: true
 
 ### Education
 
-![Some Title](images/umass.png){:style="margin-left: 1px;margin-top: 1px;"}
+<img src="images/umass.png" width="20">
 **PhD(CS)**, University of Massachusetts, Amherst MA, 2016-*present*
 
 
