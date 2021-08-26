@@ -13,3 +13,9 @@ author_profile: true
 2. Ray, Archan, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya Lamsal, Liam Niehus-Staab, Jerod Weinman, and Erik Learned-Miller. "Historical map annotations for text detection and recognition." Grinnell College, Grinnell, Iowa, Tech. Rep (2018).
 
 3. Ray, Archan, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee. "U-pc: Unsupervised planogram compliance." In Proceedings of the European Conference on Computer Vision (ECCV), pp. 586-600. 2018.
+
+4. Ray, Archan. "Estimation of image features representing facial emotions for emotion synthesis." PhD diss., Indian Statistical Institute, Kolkata, 2015.
+
+# Patents
+
+1. Pranoy, H. A. R. I., Shilpa Yadukumar Rao, Rajashree Ramakrishnan, Avishek Kumar Shaw, R. A. Y. Archan, Nishant Kumar, and Dipti Prasad Mukherjee. "System and method for object recognition based estimation of planogram compliance." U.S. Patent 10,748,030, issued August 18, 2020.
