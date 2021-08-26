@@ -7,6 +7,6 @@ author_profile: true
 
 ### Education
 
-![Some Title](images/umass.png){:style="float: left;margin-right: 1px;margin-top: 1px;"}
+![Some Title](images/umass.png){:style="float: left;margin-left: 1px;margin-top: 1px;"}
 
 ### Experience
