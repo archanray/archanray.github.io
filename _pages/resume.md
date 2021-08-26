@@ -6,17 +6,5 @@ author_profile: true
 ---
 
 ### Education
-<div class="row">
 
-<div class="col-xs-3">
-
-**MS, PhD (CS)**  
-<small>Univ of Massachusetts</small>  
-[![...](images/umass.png) ](http://cs.umass.edu/) Amherst MA  
-_2016, 2018_
-
-</div>
-
-</div>
-
-### Experience
+![Some Title](images/umass.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
