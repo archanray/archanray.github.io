@@ -18,4 +18,4 @@ author_profile: true
 
 # Patents
 
-1. Pranoy, H. A. R. I., Shilpa Yadukumar Rao, Rajashree Ramakrishnan, Avishek Kumar Shaw, R. A. Y. Archan, Nishant Kumar, and Dipti Prasad Mukherjee. "System and method for object recognition based estimation of planogram compliance." U.S. Patent 10,748,030, issued August 18, 2020.[patent](https://patentimages.storage.googleapis.com/73/44/a8/3bfb3d247b7fc8/US10748030.pdf)
+1. Pranoy Hari, Shilpa Yadukumar Rao, Rajashree Ramakrishnan, Avishek Kumar Shaw, Archan Ray, Nishant Kumar, and Dipti Prasad Mukherjee. "System and method for object recognition based estimation of planogram compliance." U.S. Patent 10,748,030, issued August 18, 2020.[patent](https://patentimages.storage.googleapis.com/73/44/a8/3bfb3d247b7fc8/US10748030.pdf)
