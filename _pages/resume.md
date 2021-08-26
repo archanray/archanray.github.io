@@ -7,7 +7,7 @@ author_profile: true
 
 ### Education
 
-![image description]('images/umass.png'){width=200px}
+![]('images/umass.png')
 **PhD(CS)**, University of Massachusetts, Amherst MA, 2016-*present*
 
 
