@@ -7,7 +7,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 # Instructions
 
 1. Configure site information etc in [_config.yml](./_config.yml)
-2. Configure texts and fonts in [_sass](_./_sass) folder. Check files with changelogs (especially [_variables](./_sass/_variable.scss), [_page](./_sass/_page.scss), [_reset](./_sass/_reset.scss) and [_archive](./_sass/_archive.scss)).
+2. Configure texts and fonts in [_sass](_./_sass) folder. Check files with changelogs (especially [_variables](./_sass/_variables.scss), [_page](./_sass/_page.scss), [_reset](./_sass/_reset.scss) and [_archive](./_sass/_archive.scss)).
 3. To add to existing pages edit respective `md` files in [_pages](./_pages).
 4. To add a new `md` page, add a listing in [_data/navigation.yml](./_data/navigation.yml).
 
