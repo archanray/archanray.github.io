@@ -10,7 +10,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 ## Education
 
 <div style="display:flex">
-     <div style="flex:3 3;padding-right:5px;">
+     <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>PhD (CS)</strong><br>
             <small>Univ of Massachusetts</small><br>
@@ -19,7 +19,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <em>2016-present</em>   
         </p>
      </div>
-     <div style="flex:3 3;padding-right:5px;">
+     <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>M.Tech (CS)</strong><br>
             <small>Indian Statistical Institute</small><br>
@@ -28,7 +28,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <em>2013-2015</em>   
         </p>
      </div>
-     <div style="flex:3 3;padding-right:5px;">
+     <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>B.Tech (CSE)</strong><br>
             <small>Jalpaiguri Govt Engg Clg</small><br>
@@ -51,7 +51,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <em>2016-present</em>   
         </p>
      </div>
-     <div style="flex:1;padding-top:10px;">
+     <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
