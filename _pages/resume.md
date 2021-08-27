@@ -64,7 +64,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>ISI Kolkata</strong><br>
             Kolkata IN<br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="87"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="88"/></a><br>
             <small>Visiting Research Scientist</small><br>
             <em>2015-2016</em>   
         </p>
