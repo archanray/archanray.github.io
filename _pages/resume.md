@@ -9,6 +9,18 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 
 ### Education
 
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="images/umass.png" width="100"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="images/isikol.png" width="100"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="images/jgec.png" width="100"/>
+     </div>
+</div>
+
 <a href="https://cs.umass.edu/"><img src="images/umass.png" width=100></a>
 **PhD(CS)**, University of Massachusetts, Amherst MA, 2016-*present*
 
