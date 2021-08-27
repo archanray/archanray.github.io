@@ -12,7 +12,7 @@ I am a graduate research student at [College of Information and Computer Science
 
 Prior to this I worked as Visiting Researcher in [Electronics and Communication Sciences Unit](https://www.isical.ac.in/~ecsu), [Indian Statistical Institute, Kolkata](https://www.isical.ac.in) with [Professor Dipti Prasad Mukherjee]("https://www.isical.ac.in/~dipti/). I completed my Masters in Computer Science in the year 2015, from the same institute. My primary research interest was in non-linear learning models for pre-image computation of image datasets.
 
-In my leisure I enjoy playing rock music, badminton and [birding](https://www.instagram.com/ray_archan/). I am also an ardent fan of [absurdist fiction](https://www.goodreads.com/book/show/17690.The_Trial), [philosophical fiction](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) and [epic fictions](https://www.goodreads.com/book/show/31340713-and-quiet-flows-the-don).
+In my leisure I enjoy playing rock music, badminton and [birding](https://www.instagram.com/ray_archan/). I am an ardent fan of [absurdist fiction](https://www.goodreads.com/book/show/17690.The_Trial), [philosophical fiction](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), [epic fictions](https://www.goodreads.com/book/show/31340713-and-quiet-flows-the-don) and graphic novels. I am absolute fan of [Seinfeld](https://www.sonypictures.com/tv/seinfeld) and consider it the pinnacle of observational comedy.
 
 ## News
 
