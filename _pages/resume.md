@@ -14,7 +14,7 @@ author_profile: true
 **M.Tech(CS)**, Indian Statistical Institute, Kolkata IN, 2013-2015
 
 <a href="https://www.jgec.ac.in/"><img src="images/jgec.png" width=100></a>
- 14 **B.Tech(CSE)**, Jalpaiguri Government Engineering College, Jalpaiguri IN, 2009-2013
+**B.Tech(CSE)**, Jalpaiguri Government Engineering College, Jalpaiguri IN, 2009-2013
 
 ### Experience
 
