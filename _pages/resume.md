@@ -56,7 +56,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
             <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 19px 0px 19px 0px;"/></a><br>
-            Applied Scientist Intern<br>
+            <x-small>Applied Scientist Intern</x-small><br>
             <em>Summers 2019, 2020</em>   
         </p>
      </div>
