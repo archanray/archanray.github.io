@@ -34,3 +34,15 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 
 <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width=100></a>
 **RRSC East, ISRO**, Kolkata IN, Research Intern, Summer 2012
+
+### Awards
+
+* **Best Dissertation** (M.Tech in Computer Science), Indian Statistical Institute, July 2015
+
+### Service
+
+* I helped organize the weekly [Machine Learning and Friends Lunch](http://ds.cs.umass.edu/mlfl) for a year.
+* I serve as a reviewer for the following:
+  * IEEE Transactions on Image Processing
+  * NeurIPS 2019 Workshop Sets \& Partitions
+  * Indian Conference on Computer Vision, Graphics and Image Processing
