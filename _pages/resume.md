@@ -22,7 +22,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
      <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>M.Tech (CS)</strong><br>
-            <small>Indian Statistical Institute</small><br>
+            <small>ISI Kolkata</small><br>
             <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="88"/></a><br>
             Kolkata IN<br>
             <em>2013-2015</em>   
