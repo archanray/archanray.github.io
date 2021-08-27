@@ -14,7 +14,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>PhD (CS)</strong><br>
             <small>Univ of Massachusetts</small><br>
-            <a href="https://cs.umass.edu/"><img src="images/umass.png" height="100"/></a><br>
+            <a href="https://cs.umass.edu/"><img src="images/umass.png" width="100"/></a><br>
             Amherst MA<br>
             <em>2016-present</em>   
         </p>
