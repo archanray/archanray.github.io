@@ -51,7 +51,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <em>2016-present</em>   
         </p>
      </div>
-     <div style="flex:1;padding-right:5px;">
+     <div style="flex:1;padding-top:10px;">
         <p class="text-center">
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
