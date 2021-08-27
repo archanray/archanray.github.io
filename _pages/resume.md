@@ -96,7 +96,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 ## Service
 
 * I helped organize the weekly [Machine Learning and Friends Lunch](http://ds.cs.umass.edu/mlfl) for a year. Please consider giving a talk!
-* I serve as a reviewer for the following:
+* I have served as a reviewer for the following:
   * IEEE Transactions on Image Processing
   * NeurIPS 2019 Workshop Sets & Partitions
   * Indian Conference on Computer Vision, Graphics and Image Processing
