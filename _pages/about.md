@@ -21,4 +21,4 @@ In my leisure I enjoy playing rock music, badminton and [birding](https://www.in
 
 ## About this website
 
-Powered by [Jekyll](https://jekyllrb.com/). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), some edits including this acknowledgement were borrowed from modifications by [Chris Severen](https://cseveren.github.io/). Hosted on [Github Pages](https://pages.github.com/).
+Powered by [Jekyll](https://jekyllrb.com/). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), some edits including this acknowledgement were borrowed from [Chris Severen](https://cseveren.github.io/) and [Ian Gemp](https://imgemp.github.io/). Hosted on [Github Pages](https://pages.github.com/).
