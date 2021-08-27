@@ -47,7 +47,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <strong>UMass Amherst</strong><br>
             Amherst MA<br>
             <a href="https://cs.umass.edu/"><img src="images/umass.png" width="100"/></a><br>
-            Research Assistant<br>
+            <small>Research Assistant</small><br>
             <em>2016-present</em>   
         </p>
      </div>
@@ -56,7 +56,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
             <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 19px 0px 19px 0px;"/></a><br>
-            <x-small>Applied Scientist Intern</x-small><br>
+            <small>Applied Scientist Intern</small><br>
             <em>Summers 2019, 2020</em>   
         </p>
      </div>
@@ -65,7 +65,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <strong>ISI Kolkata</strong><br>
             Kolkata IN<br>
             <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="85"/></a><br>
-            Visiting Research Scientist<br>
+            <small>Visiting Research Scientist</small><br>
             <em>2015-2016</em>   
         </p>
      </div>
@@ -74,7 +74,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <strong>TCS Innovation Labs</strong><br>
             Gurgaon IN<br>
             <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="150" style="padding: 20px 0px 20px 8px;"/></a><br>
-            Applied Research Intern<br>
+            <small>Applied Research Intern</small><br>
             <em>Summer 2015</em>   
         </p>
      </div>
@@ -83,7 +83,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <strong>RRSC East, ISRO</strong><br>
             Kolkata IN<br>
             <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width="100"/></a><br>
-            Research Intern<br>
+            <small>Research Intern</small><br>
             <em>Summer 2012</em>   
         </p>
      </div>
