@@ -7,7 +7,7 @@ author_profile: true
 
 Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 
-### Education
+## Education
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
@@ -19,24 +19,27 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
             <em>2016-present</em>   
         </p>
      </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="images/isikol.png" width="100"/>
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>M.Tech (CS)</strong><br>
+            <small>Indian Statistical Institute</small><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="100"/></a><br>
+            Kolkata IN<br>
+            <em>2013-2015</em>   
+        </p>
      </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="images/jgec.png" width="100"/>
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>B.Tech (CSE)</strong><br>
+            <small>Jalpaiguri Government Engineering College</small><br>
+            <a href="https://www.jgec.ac.in/"><img src="images/jgec.png" width="100"/></a><br>
+            Jalpaiguri IN<br>
+            <em>2009-2013</em>   
+        </p>
      </div>
 </div>
 
-<a href="https://cs.umass.edu/"><img src="images/umass.png" width=100></a>
-**PhD(CS)**, University of Massachusetts, Amherst MA, 2016-*present*
-
-<a href="https://www.isical.ac.in/"><img src="images/isikol.png" width=100></a>
-**M.Tech(CS)**, Indian Statistical Institute, Kolkata IN, 2013-2015
-
-<a href="https://www.jgec.ac.in/"><img src="images/jgec.png" width=100></a>
-**B.Tech(CSE)**, Jalpaiguri Government Engineering College, Jalpaiguri IN, 2009-2013
-
-### Experience
+## Experience
 
 <a href="https://cs.umass.edu/"><img src="images/umass.png" width=100></a>
 **UMass Amherst**, Amherst MA, Research Assistant, 2016-*present*
@@ -53,11 +56,11 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width=100></a>
 **RRSC East, ISRO**, Kolkata IN, Research Intern, Summer 2012
 
-### Awards
+## Awards
 
 * **Best Dissertation** (M.Tech in Computer Science), Indian Statistical Institute, July 2015
 
-### Service
+## Service
 
 * I helped organize the weekly [Machine Learning and Friends Lunch](http://ds.cs.umass.edu/mlfl) for a year. Please consider giving a talk!
 * I serve as a reviewer for the following:
