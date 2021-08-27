@@ -23,7 +23,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>M.Tech (CS)</strong><br>
             <small>Indian Statistical Institute</small><br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="90"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="80"/></a><br>
             Kolkata IN<br>
             <em>2013-2015</em>   
         </p>
@@ -55,7 +55,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
-            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 25px 0px 25px 0px;"/></a><br>
+            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 21px 0px 21px 0px;"/></a><br>
             Applied Scientist Intern<br>
             <em>Summers 2019, 2020</em>   
         </p>
@@ -64,7 +64,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>ISI Kolkata</strong><br>
             Kolkata IN<br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="90"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="80"/></a><br>
             Visiting Research Scientist<br>
             <em>2015-2016</em>   
         </p>
