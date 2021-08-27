@@ -55,7 +55,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
-            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 8px 0px 8px 0px;"/></a><br>
+            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 20px 0px 20px 0px;"/></a><br>
             Applied Scientist Intern<br>
             <em>Summers 2019, 2020</em>   
         </p>
@@ -73,7 +73,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>TCS Innovation Labs</strong><br>
             Gurgaon IN<br>
-            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="100"/></a><br>
+            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="100" style="padding: 30px 0px 30px 0px;"/></a><br>
             Applied Research Inter<br>
             <em>Summer 2015</em>   
         </p>
