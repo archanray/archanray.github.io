@@ -12,11 +12,11 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
         <p class="text-center">
-            <strong>MS, PhD (CS)</strong>
-            <br><small>Univ of Massachusetts</small><br>
+            <strong>PhD (CS)</strong><br>
+            <small>Univ of Massachusetts</small><br>
             <a href="https://cs.umass.edu/"><img src="images/umass.png" width="100"/></a><br>
             Amherst MA<br>
-            <em>2016, 2018</em>   
+            <em>2016-present</em>   
         </p>
      </div>
      <div style="flex:1;padding-left:10px;">
