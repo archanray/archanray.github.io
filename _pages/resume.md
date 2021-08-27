@@ -5,6 +5,8 @@ permalink: /resume/
 author_profile: true
 ---
 
+Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
+
 ### Education
 
 <a href="https://cs.umass.edu/"><img src="images/umass.png" width=100></a>
