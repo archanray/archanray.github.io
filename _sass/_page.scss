@@ -56,7 +56,7 @@
   }
 
   p, li, dl {
-    font-size: 0.875em;
+    font-size: 1em;
   }
 
   /* paragraph indents */
@@ -76,7 +76,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
