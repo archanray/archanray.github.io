@@ -14,7 +14,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>PhD (CS)</strong><br>
             <small>Univ of Massachusetts</small><br>
-            <a href="https://cs.umass.edu/"><img src="images/umass.png" width="100"/></a><br>
+            <a href="https://cs.umass.edu/"><img src="images/umass.png" height="100"/></a><br>
             Amherst MA<br>
             <em>2016-present</em>   
         </p>
@@ -23,7 +23,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>M.Tech (CS)</strong><br>
             <small>Indian Statistical Institute</small><br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="100"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" height="100"/></a><br>
             Kolkata IN<br>
             <em>2013-2015</em>   
         </p>
@@ -31,8 +31,8 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
      <div style="flex:1;padding-right:10px;">
         <p class="text-center">
             <strong>B.Tech (CSE)</strong><br>
-            <small>Jalpaiguri Government Engineering College</small><br>
-            <a href="https://www.jgec.ac.in/"><img src="images/jgec.png" width="100"/></a><br>
+            <small>Jalpaiguri Govt Engg Clg</small><br>
+            <a href="https://www.jgec.ac.in/"><img src="images/jgec.png" height="100"/></a><br>
             Jalpaiguri IN<br>
             <em>2009-2013</em>   
         </p>
@@ -41,20 +41,53 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 
 ## Experience
 
-<a href="https://cs.umass.edu/"><img src="images/umass.png" width=100></a>
-**UMass Amherst**, Amherst MA, Research Assistant, 2016-*present*
-
-<a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width=100></a>
-**AWS AI Algorithm**, New York NY, Applied Scientist Intern, Summers 2019, 2020
-
-<a href="https://www.isical.ac.in/"><img src="images/isikol.png" width=100></a>
-**ISI Kolkata**, Kolkata IN, Visiting Research Scientist, 2015-2016
-
-<a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width=100></a>
-**TCS Innovation Labs**, Gurgaon IN, Applied Research Intern, Summer 2015
-
-<a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width=100></a>
-**RRSC East, ISRO**, Kolkata IN, Research Intern, Summer 2012
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>UMass Amherst</strong><br>
+            Amherst MA<br>
+            <a href="https://cs.umass.edu/"><img src="images/umass.png" height="100"/></a><br>
+            Research Assistant<br>
+            <em>2016-present</em>   
+        </p>
+     </div>
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>AWS AI Algorithm</strong><br>
+            New York NY<br>
+            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" height="100"/></a><br>
+            Applied Scientist Intern<br>
+            <em>Summers 2019, 2020</em>   
+        </p>
+     </div>
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>ISI Kolkata</strong><br>
+            Kolkata IN<br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" height="100"/></a><br>
+            Visiting Research Scientist<br>
+            <em>2015-2016</em>   
+        </p>
+     </div>
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>TCS Innovation Labs</strong><br>
+            Gurgaon IN<br>
+            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" height="100"/></a><br>
+            Applied Research Inter<br>
+            <em>Summer 2015</em>   
+        </p>
+     </div>
+     <div style="flex:1;padding-right:10px;">
+        <p class="text-center">
+            <strong>RRSC East, ISRO</strong><br>
+            Kolkata IN<br>
+            <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" height="100"/></a><br>
+            Research Intern<br>
+            <em>Summer 2012</em>   
+        </p>
+     </div>
+</div>
 
 ## Awards
 
