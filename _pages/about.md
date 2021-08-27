@@ -16,3 +16,7 @@ Prior to this I worked as Visiting Researcher in [Electronics and Communication 
 
 * (August 2021) Presented our work on *Estimating eigenvalues of symmetric indefinite matrices using random submatrices* at [WALD(O)](https://waldo2021.github.io/). [[link to poster]](https://drive.google.com/file/d/1YiBQzSQ7trBYcctzdalm0E1A6d7HbjUB/view?usp=sharing)
 * (June 2021) Presented our work on *Kernel approximation in sliding window models* at [WOLA 2021](https://www.local-algorithms.com/). [[link to poster]](https://www.local-algorithms.com/posters/archan.pdf)
+
+## About this website
+
+Powered by [Jekyll](https://jekyllrb.com/). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), some edits including this acknowledgement were borrowed from modifications by [Chris Severen](https://cseveren.github.io/). Hosted on [Github Pages](https://pages.github.com/).
