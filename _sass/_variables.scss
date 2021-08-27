@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 13;
+$doc-font-size              : 12;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -65,6 +65,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
+$info-color2                : #697a87;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,7 +91,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : mix($info-color2, $info-color, 50%);
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
