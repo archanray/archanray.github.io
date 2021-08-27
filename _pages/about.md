@@ -16,7 +16,7 @@ In my leisure I enjoy playing rock music, badminton and [birding](https://www.in
 
 ## News
 
-* (August 2021) Presented our work on *Estimating eigenvalues of symmetric indefinite matrices using random submatrices* at [WALD(O)](https://waldo2021.github.io/). [[link to poster]](docs/eigenvalue_estimation_poster.pdf)
+* (August 2021) Presented our work on *Estimating eigenvalues of symmetric indefinite matrices using random submatrices* at [WALD(O)](https://waldo2021.github.io/). [[link to poster]](_pages/docs/eigenvalue_estimation_poster.pdf)
 * (June 2021) Presented our work on *Kernel approximation in sliding window models* at [WOLA 2021](https://www.local-algorithms.com/). [[link to poster]](https://www.local-algorithms.com/posters/archan.pdf)
 
 ## About this website
