@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-linkcolor: blue
 ---
 
 I am a graduate research student at <a href="https://www.cics.umass.edu/" style="color: blue; text-decoration: none;">College of Information and Computer Sciences</a>, <a href="https://www.umass.edu/" style="color: blue; text-decoration: none;">University of Massachusetts</a>, advised by <a href="https://www.cameronmusco.com" style="color: blue; text-decoration: none;">Professor Cameron Musco</a>. My work focuses on approximating kernel methods, randomized algorithms and online learning. I am especially interested in the over-reaching goal of finding adaptive kernel functions for large datasets.
