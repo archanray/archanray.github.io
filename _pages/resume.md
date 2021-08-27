@@ -73,7 +73,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
         <p class="text-center">
             <strong>TCS Innovation Labs</strong><br>
             Gurgaon IN<br>
-            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="100" style="padding: 30px 0px 30px 0px;"/></a><br>
+            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="150" style="padding: 20px 0px 20px 0px;"/></a><br>
             Applied Research Inter<br>
             <em>Summer 2015</em>   
         </p>
