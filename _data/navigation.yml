@@ -1,13 +1,8 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research"
-    url: /research/    
+    url: /research/
     
   - title: "Resume"
     url: /resume/
     
-  - title: "Contact"
-    url: /contact/
