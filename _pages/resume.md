@@ -95,7 +95,9 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 
 ## Service
 
-* I helped organize the weekly [Machine Learning and Friends Lunch](http://ds.cs.umass.edu/mlfl) for a year. Please consider giving a talk!
+* I helped organize the weekly [Machine Learning and Friends Lunch](http://ds.cs.umass.edu/mlfl) between Fall 2018-Fall 2019. Please consider giving a talk!
+* I have served as a steward for the [Graduate Employee Organisation](https://www.geouaw.org/) between Fall 2017-Fall 2018.
+* I also mentored/worked with masters students in Fall 2018.
 * I have served as a reviewer for the following:
   * IEEE Transactions on Image Processing
   * NeurIPS 2019 Workshop Sets & Partitions
