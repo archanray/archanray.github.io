@@ -21,13 +21,13 @@ Archan Ray, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya La
 Grinnell College, Grinnell, Iowa, Tech. Rep (2018)
 * [U-PC: Unsupervised planogram compliance](http://openaccess.thecvf.com/content_ECCV_2018/papers/Archan_Ray_U-PC_Unsupervised_Planogram_ECCV_2018_paper.pdf)\
 Archan Ray, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee\
-In Proceedings of the European Conference on Computer Vision (ECCV), pp. 586-600. 2018
+Proceedings of the European Conference on Computer Vision (ECCV), pp. 586-600. 2018
 * [Estimation of image features representing facial emotions for emotion synthesis](http://library.isical.ac.in:8080/jspui/bitstream/10263/6487/1/DISS-330.pdf)\
-Archan Ray
+Archan Ray\
 M. Tech Dissertation Series, Indian Statistical Institute, Kolkata, 2015
 
 ### Patents
 
-* [System and method for object recognition based estimation of planogram compliance](https://patentimages.storage.googleapis.com/73/44/a8/3bfb3d247b7fc8/US10748030.pdf)
-Pranoy Hari, Shilpa Yadukumar Rao, Rajashree Ramakrishnan, Avishek Kumar Shaw, Archan Ray, Nishant Kumar, and Dipti Prasad Mukherjee
+* [System and method for object recognition based estimation of planogram compliance](https://patentimages.storage.googleapis.com/73/44/a8/3bfb3d247b7fc8/US10748030.pdf)\
+Pranoy Hari, Shilpa Yadukumar Rao, Rajashree Ramakrishnan, Avishek Kumar Shaw, Archan Ray, Nishant Kumar, and Dipti Prasad Mukherjee\
 U.S. Patent 10,748,030, issued August 18, 2020
