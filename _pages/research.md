@@ -13,21 +13,25 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 ### Papers
 
+* [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)\
+Rajarshi Bhattacharjee, Cameron Musco, Archan Ray\
+In submission.\
+[Code repository.](https://github.com/archanray/eigenvalue_estimation)
 * [Tight Coupling of Character, Word, and Place Recognition for End-to-End Text Recognition in Maps](https://web.cs.umass.edu/publication/docs/2019/UM-CS-2019-003.pdf)\
 Archan Ray, Aruni Roy Chowdhury, Yi Fung, Jerod Weinman, and Erik Learned-Miller\
-Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019
+Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019.
 * [Historical map annotations for text detection and recognition](https://weinman.cs.grinnell.edu/~weinman/data/complete-map-dataset.pdf)\
 Archan Ray, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya Lamsal, Liam Niehus-Staab, Jerod Weinman, and Erik Learned-Miller\
-Grinnell College, Tech. Report, 2018
+Grinnell College, Technical Report, 2018.
 * [U-PC: Unsupervised planogram compliance](http://openaccess.thecvf.com/content_ECCV_2018/papers/Archan_Ray_U-PC_Unsupervised_Planogram_ECCV_2018_paper.pdf)\
 Archan Ray, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee\
-European Conference on Computer Vision (ECCV), 2018
+European Conference on Computer Vision (ECCV), 2018.
 * [Estimation of image features representing facial emotions for emotion synthesis](http://library.isical.ac.in:8080/jspui/bitstream/10263/6487/1/DISS-330.pdf)\
 Archan Ray\
-M. Tech Dissertation Series, Indian Statistical Institute, Kolkata, 2015
+M. Tech Dissertation Series, Indian Statistical Institute, Kolkata, 2015.
 
 ### Patents
 
 * [System and method for object recognition based estimation of planogram compliance](https://patentimages.storage.googleapis.com/73/44/a8/3bfb3d247b7fc8/US10748030.pdf)\
 Pranoy Hari, Shilpa Yadukumar Rao, Rajashree Ramakrishnan, Avishek Kumar Shaw, Archan Ray, Nishant Kumar, and Dipti Prasad Mukherjee\
-U.S. Patent 10,748,030, 2020
+U.S. Patent 10,748,030, 2020.
