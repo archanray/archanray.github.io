@@ -17,7 +17,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 Rajarshi Bhattacharjee, Cameron Musco, Archan Ray\
 In submission.\
 [Code repository.](https://github.com/archanray/eigenvalue_estimation)
-* [Sublinear Time Approximation of Text Similarity Matrices]\
+* [Sublinear Time Approximation of Text Similarity Matrices](https://archanray.github.io/research/)\
 Archan Ray, Nicholas Monath, Andrew McCallum, and Cameron Musco\
 *to appear in* AAAI Conference on Artificial Intelligence (AAAI) 2022.
 * [Tight Coupling of Character, Word, and Place Recognition for End-to-End Text Recognition in Maps](https://web.cs.umass.edu/publication/docs/2019/UM-CS-2019-003.pdf)\
