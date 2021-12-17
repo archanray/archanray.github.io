@@ -19,8 +19,8 @@ In submission.\
 [Code repository.](https://github.com/archanray/eigenvalue_estimation)
 * [Sublinear Time Approximation of Text Similarity Matrices](https://archanray.github.io/research/)\
 Archan Ray, Nicholas Monath, Andrew McCallum, and Cameron Musco\
-*to appear in* AAAI Conference on Artificial Intelligence (AAAI) 2022.
-[Code repository](https://github.com/archanray/approximate_similarities)
+*to appear in* AAAI Conference on Artificial Intelligence (AAAI) 2022.\
+[Code repository.](https://github.com/archanray/approximate_similarities)
 * [Tight Coupling of Character, Word, and Place Recognition for End-to-End Text Recognition in Maps](https://web.cs.umass.edu/publication/docs/2019/UM-CS-2019-003.pdf)\
 Archan Ray, Aruni Roy Chowdhury, Yi Fung, Jerod Weinman, and Erik Learned-Miller\
 Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019.
