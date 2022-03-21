@@ -15,8 +15,10 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)\
 Rajarshi Bhattacharjee, Cameron Musco, Archan Ray\
-In submission.\
-[Code repository.](https://github.com/archanray/eigenvalue_estimation)
+in submission.\
+<details><summary> Abstract | [Code](https://github.com/archanray/eigenvalue_estimation) </summary>
+We study the problem of approximating the eigenspectrum of a symmetric matrix $\bv A \in \mathbb{R}^{n \times n}$ with bounded entries (i.e., $\|\bv A\|_{\infty} \leq 1$). We present a simple sublinear time algorithm that approximates all eigenvalues of $\bv{A}$ up to additive error $\pm \epsilon n$ using those of a randomly sampled $\Tilde{O}(\frac{1}{\epsilon^4}) \times \tilde O(\frac{1}{\epsilon^4})$ principal submatrix. Our result can be viewed as a concentration bound on the full eigenspectrum of a random principal submatrix. It significantly extends existing work which shows concentration of just the spectral norm. It also extends work on sublinear time algorithms for testing the presence of large negative eigenvalues in the spectrum. To complement our theoretical results, we provide numerical simulations, which demonstrate the effectiveness of our algorithm in approximating the eigenvalues of a wide range of matrices.
+</details>
 * [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/abs/2112.09631)\
 Archan Ray, Nicholas Monath, Andrew McCallum, and Cameron Musco\
 *to appear in* AAAI Conference on Artificial Intelligence (AAAI) 2022.\
