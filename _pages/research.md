@@ -13,7 +13,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 ### Papers
 
-- * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)
+- [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)
   <br>
   Rajarshi Bhattacharjee, Cameron Musco, Archan Ray
   <br>
