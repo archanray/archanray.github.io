@@ -19,27 +19,55 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   in submission.<br>
   <details><summary> Abstract | <a href="https://github.com/archanray/eigenvalue_estimation"> Code </a></summary>
-  <p style="line-height:100%">
   We study the problem of approximating the eigenspectrum of a symmetric matrix $A \in \mathbb{R}^{n \times n}$ with bounded entries (i.e., $\|A\|_{\infty} \leq 1$). We present a simple sublinear time algorithm that approximates all eigenvalues of $A$ up to additive error $\pm \epsilon n$ using those of a randomly sampled $\tilde{O}(\frac{1}{\epsilon^4}) \times \tilde O(\frac{1}{\epsilon^4})$ principal submatrix. Our result can be viewed as a concentration bound on the full eigenspectrum of a random principal submatrix. It significantly extends existing work which shows concentration of just the spectral norm [Tro08]. It also extends work on sublinear time algorithms for testing the presence of large negative eigenvalues in the spectrumi [BCJ20]. To complement our theoretical results, we provide numerical simulations, which demonstrate the effectiveness of our algorithm in approximating the eigenvalues of a wide range of matrices.
-  </p>
   </details>
 
-* [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/abs/2112.09631)\
-Archan Ray, Nicholas Monath, Andrew McCallum, and Cameron Musco\
-*to appear in* AAAI Conference on Artificial Intelligence (AAAI) 2022.\
-[Code repository.](https://github.com/archanray/approximate_similarities)
-* [Tight Coupling of Character, Word, and Place Recognition for End-to-End Text Recognition in Maps](https://web.cs.umass.edu/publication/docs/2019/UM-CS-2019-003.pdf)\
-Archan Ray, Aruni Roy Chowdhury, Yi Fung, Jerod Weinman, and Erik Learned-Miller\
-Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019.
-* [Historical map annotations for text detection and recognition](https://weinman.cs.grinnell.edu/~weinman/data/complete-map-dataset.pdf)\
-Archan Ray, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya Lamsal, Liam Niehus-Staab, Jerod Weinman, and Erik Learned-Miller\
-Grinnell College, Technical Report, 2018.
-* [U-PC: Unsupervised planogram compliance](http://openaccess.thecvf.com/content_ECCV_2018/papers/Archan_Ray_U-PC_Unsupervised_Planogram_ECCV_2018_paper.pdf)\
-Archan Ray, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee\
-European Conference on Computer Vision (ECCV), 2018.
-* [Estimation of image features representing facial emotions for emotion synthesis](http://library.isical.ac.in:8080/jspui/bitstream/10263/6487/1/DISS-330.pdf)\
-Archan Ray\
-M. Tech Dissertation Series, Indian Statistical Institute, Kolkata, 2015.
+- [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/abs/2112.09631)
+  <br>
+  Archan Ray, Nicholas Monath, Andrew McCallum, and Cameron Musco
+  <br>
+  *to appear in* AAAI Conference on Artificial Intelligence (AAAI) 2022. <br>
+  <details><summary> Abstract | <a href="https://github.com/archanray/approximate_similarities"> Code </a></summary>
+  We study algorithms for approximating pairwise similarity matrices that arise in natural language processing. Generally, computing a similarity matrix for $n$ data points requires $\Omega(n^2)$ similarity computations.
+This quadratic scaling is a significant bottleneck, especially when similarities are computed via expensive functions, e.g., via transformer models.  Approximation methods reduce this quadratic complexity, often by using a small subset of exactly computed similarities to approximate the remainder of the complete pairwise similarity matrix.
+
+  Significant  work focuses on the efficient approximation of positive semidefinite (PSD) similarity matrices, which arise e.g., in kernel methods. However, much less is understood about indefinite (non-PSD) similarity matrices, which often  arise in  NLP. Motivated by the observation that many of these matrices are still somewhat close to PSD, we introduce a generalization of the popular \emph{\nystrom method} to the indefinite setting. Our algorithm can be applied to any similarity matrix and runs in sublinear time in the size of the matrix, producing a rank-$s$ approximation with just $O(ns)$ similarity computations.
+
+  We show that our method, along with a simple variant of CUR decomposition, performs very well in approximating a variety of similarity matrices arising in NLP tasks. We demonstrate high accuracy of the approximated similarity matrices in the downstream tasks of document classification, sentence similarity, and cross-document coreference.
+  <\details>
+
+- [Tight Coupling of Character, Word, and Place Recognition for End-to-End Text Recognition in Maps](https://web.cs.umass.edu/publication/docs/2019/UM-CS-2019-003.pdf)
+  <br>
+  Archan Ray, Aruni Roy Chowdhury, Yi Fung, Jerod Weinman, and Erik Learned-Miller
+  <br>
+  Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019.<br>
+  <details><summary> Abstract </summary>
+  Text recognition in maps is a special case of general text recognition that features some especially difficult challenges, including texts at extreme orientations, wide character spacings, complex text-like distractors, and unusual non-dictionary strings. Off-the-shelf OCR systems, and even sophisticated scene text recognition systems do not work satisfactorily on many map-text recognition problems. While many OCR and scene text systems have produced high quality results by considering detection, recognition, and error-correction as separate components, we believe that map text recognition can benefit immensely from the {**tight coupling**} of different components of an overall system. In particular, we present an end-to-end system for recognizing text in maps that uses strong coupling in two different ways. In the first, we train individual {**character**} detectors, and use these detections as inputs in a new **word detection CNN architecture** to improve word detection. We show dramatic increases in word detection accuracy for a strong baseline detection architecture. In the second contribution, we use a geographically-based lexicon to constrain our interpretations of initial detections. If the lexicon suggests that the word detection is either too short, we ``re-prime'' the word detector by inserting expected characters locations back into the word detector using a novel input mechanism. We then rerun the word detector using the additional character suggestions, giving a solid improvement in accuracy. We report end-to-end recognition results on a public map-text recognition benchmark.
+  </details>
+
+- [Historical map annotations for text detection and recognition](https://weinman.cs.grinnell.edu/~weinman/data/complete-map-dataset.pdf)
+  <br>
+  Archan Ray, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya Lamsal, Liam Niehus-Staab, Jerod Weinman, and Erik Learned-Miller
+  <br>
+  Grinnell College, Technical Report, 2018.<br>
+
+- [U-PC: Unsupervised planogram compliance](http://openaccess.thecvf.com/content_ECCV_2018/papers/Archan_Ray_U-PC_Unsupervised_Planogram_ECCV_2018_paper.pdf)
+  <br>
+  Archan Ray, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee
+  <br>
+  European Conference on Computer Vision (ECCV), 2018.<br>
+  <details><summary> Abstract <summary>
+  We present an end-to-end solution for recognizing merchandise displayed in the shelves of a supermarket. Given images of individual products, which are taken under ideal illumination for product marketing, the challenge is to find these products automatically in the images of the shelves. Note that the images of shelves are taken using hand-held camera under store level illumination. We provide a two-layer hypotheses generation and verification model. In the first layer, the model predicts a set of candidate merchandise at a specific location of the shelf while in the second layer, the hypothesis is verified by a novel graph theoretic approach. The performance of the proposed approach on two publicly available datasets is better than the competing approaches by at least 10%.
+  </details>
+  
+- [Estimation of image features representing facial emotions for emotion synthesis](http://library.isical.ac.in:8080/jspui/bitstream/10263/6487/1/DISS-330.pdf)
+  <br>
+  Archan Ray
+  <br>
+  M. Tech Dissertation Series, Indian Statistical Institute, Kolkata, 2015.<br>
+  <details><summary> Abstract </summary>
+  We develop a method to estimate emotion-specific features on human face. Application of such a method include characterizing an emotion class and synthesis of emotions. The emotion specific features can also be used to study the statistical differences between two clusters, one facial expression images with no expressions and two facial expression images with some or maximum emotional content. Once the feature vectors are extracted from the input data, we classify the data and use the normal to the classifier to trace the changes that a facial expression image may undergo in different stages of an emotion. We use Support Vector Machines learning algorithm to construct an optimal classifier. In the result section we show that we are able to reduce the number of features by 66.36% as compared to the total number of pixels. We show that using these features and state-of-the-art methods to synthesize images, we improved SNR of the synthesized image by 13.20% and also improved the cluster measures between a cluster of no-expression images and a cluster of with-expression images.
+  </details>
 
 ### Patents
 
