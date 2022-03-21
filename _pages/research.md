@@ -56,7 +56,7 @@ This quadratic scaling is a significant bottleneck, especially when similarities
   Archan Ray, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee
   <br>
   European Conference on Computer Vision (ECCV), 2018.<br>
-  <details><summary> Abstract <summary>
+  <details><summary> Abstract </summary>
   We present an end-to-end solution for recognizing merchandise displayed in the shelves of a supermarket. Given images of individual products, which are taken under ideal illumination for product marketing, the challenge is to find these products automatically in the images of the shelves. Note that the images of shelves are taken using hand-held camera under store level illumination. We provide a two-layer hypotheses generation and verification model. In the first layer, the model predicts a set of candidate merchandise at a specific location of the shelf while in the second layer, the hypothesis is verified by a novel graph theoretic approach. The performance of the proposed approach on two publicly available datasets is better than the competing approaches by at least 10%.
   </details>
   
