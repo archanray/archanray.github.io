@@ -15,10 +15,10 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 <tr>
   <td width="14%"  valign="middle">
-    <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
+    <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:middle; width: 10%; margin:0px 10px; border-radius:0%"/> 
   </td>
   <td valign="top" width="85%">
-    [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)
+    <a href="https://arxiv.org/abs/2109.07647"> Sublinear Time Eigenvalue Approximation via Random Sampling </a>
     <br>
     Rajarshi Bhattacharjee, Cameron Musco, Archan Ray
     <br>
