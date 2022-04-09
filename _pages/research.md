@@ -22,7 +22,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
     <br>
     Rajarshi Bhattacharjee, Cameron Musco, Archan Ray
     <br>
-    in submission.<br>
+    in submission.
     <details><summary> Abstract | <a href="https://github.com/archanray/eigenvalue_estimation"> Code </a></summary>
     We study the problem of approximating the eigenspectrum of a symmetric matrix $A \in \mathbb{R}^{n \times n}$ with bounded entries (i.e., $\|A\|_{\infty} \leq 1$). We present a simple sublinear time algorithm that approximates all eigenvalues of $A$ up to additive error $\pm \epsilon n$ using those of a randomly sampled $\tilde{O}(\frac{1}{\epsilon^4}) \times \tilde O(\frac{1}{\epsilon^4})$ principal submatrix. Our result can be viewed as a concentration bound on the full eigenspectrum of a random principal submatrix. It significantly extends existing work which shows concentration of just the spectral norm [Tro08]. It also extends work on sublinear time algorithms for testing the presence of large negative eigenvalues in the spectrumi [BCJ20]. To complement our theoretical results, we provide numerical simulations, which demonstrate the effectiveness of our algorithm in approximating the eigenvalues of a wide range of matrices.
     </details>
