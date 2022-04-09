@@ -21,7 +21,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
       </td>
       <td valign="top" width="85%">
         <p>
-          <a href="https://arxiv.org/abs/2109.07647">Search-Guided, Lightly-supervised Training of Structured Prediction Energy Networks</a>
+          <a href="https://arxiv.org/abs/2109.07647">Sublinear Time Eigenvalue Approximation via Random Sampling</a>
           <br />
           Rajarshi Bhattacharjee, Cameron Musco, Archan Ray
           <br />
