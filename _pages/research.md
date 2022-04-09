@@ -13,7 +13,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 ### Papers
 
-<table width="40%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
    
    <tr>
       <td height="100%" valign="middle">
