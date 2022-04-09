@@ -17,7 +17,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
    
    <tr>
       <td height="100%" valign="top">
-            <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" /> 
+            <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:middle; width: 90%; margin:0px 10px; border-radius:0%" /> 
       </td>
       <td valign="top" width="85%">
         <p>
