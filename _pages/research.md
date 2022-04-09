@@ -13,21 +13,29 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 ### Papers
 
-<div style="clear: left;">
-  <p style="float: left;">
-      <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:top; width: 100px; height: 100px"/> 
-  </p>  
-  <p>
-    <a href="https://arxiv.org/abs/2109.07647"> Sublinear Time Eigenvalue Approximation via Random Sampling </a>
-    <br>
-    Rajarshi Bhattacharjee, Cameron Musco, Archan Ray
-    <br>
-    in submission.
-    <details><summary> Abstract | <a href="https://github.com/archanray/eigenvalue_estimation"> Code </a></summary>
-    We study the problem of approximating the eigenspectrum of a symmetric matrix $A \in \mathbb{R}^{n \times n}$ with bounded entries (i.e., $\|A\|_{\infty} \leq 1$). We present a simple sublinear time algorithm that approximates all eigenvalues of $A$ up to additive error $\pm \epsilon n$ using those of a randomly sampled $\tilde{O}(\frac{1}{\epsilon^4}) \times \tilde O(\frac{1}{\epsilon^4})$ principal submatrix. Our result can be viewed as a concentration bound on the full eigenspectrum of a random principal submatrix. It significantly extends existing work which shows concentration of just the spectral norm [Tro08]. It also extends work on sublinear time algorithms for testing the presence of large negative eigenvalues in the spectrumi [BCJ20]. To complement our theoretical results, we provide numerical simulations, which demonstrate the effectiveness of our algorithm in approximating the eigenvalues of a wide range of matrices.
-    </details>
-  </p>
-</div>
+<table width="40%" align="center" border="0" cellspacing="0" cellpadding="20">
+   
+   <tr>
+      <td height="100%" valign="middle">
+            <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" /> 
+      </td>
+      <td valign="top" width="85%">
+        <p>
+          <a href="https://arxiv.org/abs/2109.07647">Search-Guided, Lightly-supervised Training of Structured Prediction Energy Networks</a>
+          <br />
+          Rajarshi Bhattacharjee, Cameron Musco, Archan Ray
+          <br />
+          in submission.
+          <details><summary> Abstract | <a href="https://github.com/archanray/eigenvalue_estimation"> Code </a></summary>
+            <p class="message">
+              We study the problem of approximating the eigenspectrum of a symmetric matrix $A \in \mathbb{R}^{n \times n}$ with bounded entries (i.e., $\|A\|_{\infty} \leq 1$). We present a simple sublinear time algorithm that approximates all eigenvalues of $A$ up to additive error $\pm \epsilon n$ using those of a randomly sampled $\tilde{O}(\frac{1}{\epsilon^4}) \times \tilde O(\frac{1}{\epsilon^4})$ principal submatrix. Our result can be viewed as a concentration bound on the full eigenspectrum of a random principal submatrix. It significantly extends existing work which shows concentration of just the spectral norm [Tro08]. It also extends work on sublinear time algorithms for testing the presence of large negative eigenvalues in the spectrumi [BCJ20]. To complement our theoretical results, we provide numerical simulations, which demonstrate the effectiveness of our algorithm in approximating the eigenvalues of a wide range of matrices.
+            </p>
+          </details>
+        </p>  
+      </td>
+   </tr>
+
+</table>
 
 - [Sublinear Time Approximation of Text Similarity Matrices](https://arxiv.org/abs/2112.09631)
   <br>
