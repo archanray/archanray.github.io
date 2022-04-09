@@ -15,7 +15,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 <div>
   <p style="float: left;">
-      <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:middle; width: 100px; height: 100px"/> 
+      <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:top; width: 100px; height: 100px"/> 
   </p>
     
   <p>
