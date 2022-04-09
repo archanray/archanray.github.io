@@ -13,11 +13,10 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 ### Papers
 
-<div>
+<div style="clear: left;">
   <p style="float: left;">
       <img src="/images/publications/STEARS.png" alt="STEARS" style="vertical-align:top; width: 100px; height: 100px"/> 
-  </p>
-    
+  </p>  
   <p>
     <a href="https://arxiv.org/abs/2109.07647"> Sublinear Time Eigenvalue Approximation via Random Sampling </a>
     <br>
