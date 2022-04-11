@@ -49,7 +49,15 @@ This quadratic scaling is a significant bottleneck, especially when similarities
   <br>
   Archan Ray, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya Lamsal, Liam Niehus-Staab, Jerod Weinman, and Erik Learned-Miller
   <br>
-  Grinnell College, Technical Report, 2018.<br>
+  Grinnell College, Technical Report, 2018.
+  <details><summary> Introduction </summary>
+  This document describes a data set designed for testing the performance of text/graphics separation and
+character recognition algorithms on text in scanned historical map images. Thirty one maps from the
+nineteenth and early twentieth centuries (1866-1927) were chosen from nine atlases in the David Rumsey
+Map Collection. Most maps are of individual states, though some are regional and one is of the entire
+U.S.; many are engraved with occasional handwritten text. The original MrSid files are converted into
+uncompressed TIFF images. The images and annotations are available from the following URLs.
+  </details>
 
 - [U-PC: Unsupervised planogram compliance](http://openaccess.thecvf.com/content_ECCV_2018/papers/Archan_Ray_U-PC_Unsupervised_Planogram_ECCV_2018_paper.pdf)
   <br>
