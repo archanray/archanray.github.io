@@ -18,7 +18,7 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 * (August 2022) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
 * (January 2022) Awarded *AAAI-22 Student Scholarship*.
-* (December 2021) Our paper on *Sublinear time approximation of text similarity matrices* was accepted for publication in [AAA1 2021](https://aaai.org/Conferences/AAAI-22/).
+* (December 2021) Our paper on *Sublinear time approximation of text similarity matrices* was accepted for publication in [AAA1 2022](https://aaai.org/Conferences/AAAI-22/).
 * (August 2021) Presented our work on *Estimating eigenvalues of symmetric matrices using random submatrices* at [WALD(O) 2021](https://waldo2021.github.io/). [[link to poster]](https://waldo2021.github.io/P018--poster.pdf)
 * (June 2021) Presented our work on *Kernel approximation in sliding window models* at [WOLA 2021](https://www.local-algorithms.com/). [[link to poster]](https://www.local-algorithms.com/posters/archan.pdf)
 
