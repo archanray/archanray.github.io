@@ -91,6 +91,7 @@ Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
 
 ## Awards
 
+* *Dissertation Writing Fellowship*, University of Massachusetts, Amherst, January 2023
 * **Best Dissertation** (M.Tech in Computer Science), Indian Statistical Institute, July 2015
 
 ## Service
