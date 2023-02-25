@@ -16,7 +16,7 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
-* (January 2023) Awarded *Dissertation Writing Fellowship* for Spring 2023.
+* (January 2023) Awarded *CICS Dissertation Writing Fellowship* for Spring 2023.
 * (August 2022) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
 * (January 2022) Awarded *AAAI-22 Student Scholarship*.
 * (December 2021) Our paper on *Sublinear time approximation of text similarity matrices* was accepted for publication in [AAA1 2022](https://aaai.org/Conferences/AAAI-22/).
