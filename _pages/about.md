@@ -14,8 +14,11 @@ Prior to this I worked as Visiting Researcher in [Electronics and Communication 
 
 In my leisure I enjoy playing guitar, badminton and [birding](https://www.instagram.com/ray_archan/). I am an ardent fan of [absurdist fiction](https://www.goodreads.com/book/show/17690.The_Trial), [philosophical fiction](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), [epic fictions](https://www.goodreads.com/book/show/31340713-and-quiet-flows-the-don) and graphic novels. I am absolute fan of [Seinfeld](https://www.sonypictures.com/tv/seinfeld) and consider it the pinnacle of observational and conversational comedy.
 
+**I am on the job market for Summer/Fall 2023.**
+
 ## News
 
+* (February 2023) I passed my Thesis Proposal Defense.
 * (January 2023) Awarded *CICS Dissertation Writing Fellowship* for Spring 2023.
 * (August 2022) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
 * (January 2022) Awarded *AAAI-22 Student Scholarship*.
