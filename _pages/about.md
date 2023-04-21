@@ -18,7 +18,7 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
-* (April 2023) Our paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication in [ICALP 2023](https://icalp2023.cs.upb.de/)
+* (April 2023) Our paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication in [ICALP 2023](https://icalp2023.cs.upb.de/).
 * (February 2023) I passed my Thesis Proposal Defense.
 * (January 2023) Awarded *CICS Dissertation Writing Fellowship* for Spring 2023.
 * (August 2022) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
