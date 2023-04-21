@@ -18,12 +18,13 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
+* (April 2023) Our paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication in [ICALP 2023](https://icalp2023.cs.upb.de/)
 * (February 2023) I passed my Thesis Proposal Defense.
 * (January 2023) Awarded *CICS Dissertation Writing Fellowship* for Spring 2023.
 * (August 2022) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
 * (January 2022) Awarded *AAAI-22 Student Scholarship*.
-* (December 2021) Our paper on *Sublinear time approximation of text similarity matrices* was accepted for publication in [AAA1 2022](https://aaai.org/Conferences/AAAI-22/).
-* (August 2021) Presented our work on *Estimating eigenvalues of symmetric matrices using random submatrices* at [WALD(O) 2021](https://waldo2021.github.io/). [[link to poster]](https://waldo2021.github.io/P018--poster.pdf)
+* (December 2021) Our paper on *Sublinear Time Approximation of Text Similarity Matrices* was accepted for publication in [AAA1 2022](https://aaai.org/Conferences/AAAI-22/).
+* (August 2021) Presented our work on *Estimating Eigenvalues of Symmetric Matrices using Random Submatrices* at [WALD(O) 2021](https://waldo2021.github.io/). [[link to poster]](https://waldo2021.github.io/P018--poster.pdf)
 * (June 2021) Presented our work on *Kernel approximation in sliding window models* at [WOLA 2021](https://www.local-algorithms.com/). [[link to poster]](https://www.local-algorithms.com/posters/archan.pdf)
 
 ## About this website
