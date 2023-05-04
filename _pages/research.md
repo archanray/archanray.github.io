@@ -15,7 +15,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 (author ordering for the papers below is alphabetical if marked \*)
 
-- [Sublinear Time Deterministic Algorithms for Spectral Approximation\*]()
+- [Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra\*]()
   <br>
   Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, David P Woodruff
   <br>
