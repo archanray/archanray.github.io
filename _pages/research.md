@@ -15,7 +15,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 (author ordering for the papers below is alphabetical if marked \*)
 
-- [Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra\*]()
+- [Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra\*](https://arxiv.org/abs/2305.05826)
   <br>
   Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, David P Woodruff
   <br>
