@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-Link to my updated [CV](docs/Archan_Ray_Resume.pdf)
+Link to my updated [CV](docs/Archan_Ray_Resume.pdf) and [research statement](docs/Research_statement_Archan.pdf)
 
 ## Education
 
