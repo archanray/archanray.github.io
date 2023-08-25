@@ -19,6 +19,12 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 (author ordering for the papers below is alphabetical if marked \*)
 
+- [Approximating Eigenvalues of Symmetric Matrices using Matrix-Vector Query Algorithms\*]()
+  <br>
+  Cameron Musco, Archan Ray
+  <br>
+  in preparation.
+
 - [Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra\*](https://arxiv.org/abs/2305.05826)
   <br>
   Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, David P Woodruff
