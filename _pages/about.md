@@ -18,6 +18,7 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
+* (September 2023) I successfully defended my PhD thesis. Will post slides soon!
 * (July 2023) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [ICALP 2023](https://icalp2023.cs.upb.de/).
 * (April 2023) Our paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at [ICALP 2023](https://icalp2023.cs.upb.de/).
 * (February 2023) I passed my Thesis Proposal Defense.
