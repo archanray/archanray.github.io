@@ -18,6 +18,7 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
+* (November 2023) Our paper on *Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra* was accepted at [ITCS 2024](https://itcs-conf.org/itcs24/itcs24-cfp.html).
 * (September 2023) I successfully defended my PhD thesis. Will post slides soon!
 * (July 2023) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [ICALP 2023](https://icalp2023.cs.upb.de/).
 * (April 2023) Our paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at [ICALP 2023](https://icalp2023.cs.upb.de/).
