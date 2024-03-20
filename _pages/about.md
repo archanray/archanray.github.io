@@ -13,11 +13,11 @@ Prior to this I worked as Visiting Researcher in [Electronics and Communication 
 
 In my leisure I enjoy playing guitar, badminton and [birding](https://www.instagram.com/ray_archan/). I am an ardent fan of [absurdist fiction](https://www.goodreads.com/book/show/17690.The_Trial), [philosophical fiction](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), [epic fictions](https://www.goodreads.com/book/show/31340713-and-quiet-flows-the-don) and graphic novels. I am absolute fan of [Seinfeld](https://www.sonypictures.com/tv/seinfeld) and consider it the pinnacle of observational and conversational comedy.
 
-**I am on the job market for Summer/Fall 2023.**
+**I am on the job market for Summer 2024.**
 
 ## News
 
-* (January 2024) Our extended paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica.
+* (January 2024) Our extended paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica 2024.
 * (November 2023) Our paper on *Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra* was accepted at [ITCS 2024](https://itcs-conf.org/itcs24/itcs24-cfp.html).
 * (September 2023) I successfully defended my PhD thesis. Will post slides soon!
 * (July 2023) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [ICALP 2023](https://icalp2023.cs.upb.de/).
