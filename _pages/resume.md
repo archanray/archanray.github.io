@@ -104,6 +104,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
 * I have served as a steward for the [Graduate Employee Organisation](https://www.geouaw.org/) between Fall 2017-Fall 2018.
 * I also mentored/worked with masters students in Fall 2018.
 * I have served as a reviewer for the following:
+  * AISTATS 2024
   * IEEE Transactions on Image Processing
   * NeurIPS 2019 Workshop Sets & Partitions
   * Indian Conference on Computer Vision, Graphics and Image Processing
