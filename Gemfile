@@ -28,4 +28,3 @@ group :jekyll_plugins do
 end
 
 gem 'nokogiri', '1.10.10'
-gem 'minimal-mistakes-jekyll'
