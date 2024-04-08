@@ -97,8 +97,8 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
 
 ## Service
 
-* I help maintaining the webpage for hosting the [Algorithms/Theory Group Meeting](https://theoryumass.github.io/) resources.
-* I am serving as a mentor in [Undergraduate Research Volunteers](https://www.cics.umass.edu/careers/articles/urv) program at UMass in Winter 2021. Please consider getting involved!
+* I helped maintain the webpage for hosting the [Algorithms/Theory Group Meeting](https://theoryumass.github.io/) resources.
+* I have served as a mentor in [Undergraduate Research Volunteers](https://www.cics.umass.edu/careers/articles/urv) program at UMass in Winter 2021. Please consider getting involved!
 * I have mentored students in the [PhD Application Support Program](https://paspumasscs.github.io/) since 2020.
 * I helped organize the weekly [Machine Learning and Friends Lunch](http://ds.cs.umass.edu/mlfl) between Fall 2018-Fall 2019. Please consider giving a talk!
 * I have served as a steward for the [Graduate Employee Organisation](https://www.geouaw.org/) between Fall 2017-Fall 2018.
