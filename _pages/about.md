@@ -13,8 +13,6 @@ Prior to this I worked as Visiting Researcher in [Electronics and Communication 
 
 In my leisure I enjoy playing guitar, badminton and [birding](https://www.instagram.com/ray_archan/). I am an ardent fan of [absurdist fiction](https://www.goodreads.com/book/show/17690.The_Trial), [philosophical fiction](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), [epic fictions](https://www.goodreads.com/book/show/31340713-and-quiet-flows-the-don) and graphic novels. I am absolute fan of [Seinfeld](https://www.sonypictures.com/tv/seinfeld) and consider it the pinnacle of observational and conversational comedy.
 
-**I am on the job market for Summer 2024.**
-
 ## News
 
 * (January 2024) Our extended paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica 2024.
