@@ -23,7 +23,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>M.Tech (CS)</strong><br>
             <small>ISI Kolkata</small><br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="88"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="86"/></a><br>
             Kolkata IN<br>
             <em>2013-2015</em>   
         </p>
@@ -32,7 +32,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>B.Tech (CSE)</strong><br>
             <small>Jalpaiguri Govt Engg Clg</small><br>
-            <a href="https://www.jgec.ac.in/"><img src="images/jgec.png" width="100"/></a><br>
+            <a href="https://www.jgec.ac.in/"><img src="images/jgec.png" width="97"/></a><br>
             Jalpaiguri IN<br>
             <em>2009-2013</em>   
         </p>
