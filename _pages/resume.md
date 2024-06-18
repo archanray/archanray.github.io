@@ -46,8 +46,8 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>MSKCC</strong><br>
             New York NY<br>
-            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="100"/></a><br>
-            <small>Postdoctoral Research Scholar</small><br>
+            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.png" width="100"/></a><br>
+            <small>Postdoc</small><br>
             <em>2024-present</em>   
         </p>
      </div>
