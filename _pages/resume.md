@@ -46,7 +46,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>MSKCC</strong><br>
             New York NY<br>
-            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="86"/></a><br>
+            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="87"/></a><br>
             <small>Postdoc</small><br>
             <em>2024-present</em>   
         </p>
@@ -69,6 +69,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
             <em>Summers 2019, 2020</em>   
         </p>
      </div>
+     <br>
      <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>ISI Kolkata</strong><br>
