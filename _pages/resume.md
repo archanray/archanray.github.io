@@ -46,7 +46,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>MSKCC</strong><br>
             New York NY<br>
-            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" height="120"/></a><br>
+            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="86"/></a><br>
             <small>Postdoc</small><br>
             <em>2024-present</em>   
         </p>
@@ -55,7 +55,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>UMass Amherst</strong><br>
             Amherst MA<br>
-            <a href="https://cs.umass.edu/"><img src="images/umass.png" height="120"/></a><br>
+            <a href="https://cs.umass.edu/"><img src="images/umass.png" width="100"/></a><br>
             <small>Research Assistant</small><br>
             <em>2016-2024</em>   
         </p>
@@ -64,7 +64,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>AWS AI Algorithm</strong><br>
             New York NY<br>
-            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" height="120" style="padding: 19px 0px 19px 0px;"/></a><br>
+            <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"><img src="images/aws.png" width="100" style="padding: 19px 0px 19px 0px;"/></a><br>
             <small>Applied Scientist Intern</small><br>
             <em>Summers 2019, 2020</em>   
         </p>
@@ -73,7 +73,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>ISI Kolkata</strong><br>
             Kolkata IN<br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" height="120"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="88"/></a><br>
             <small>Visiting Research Scientist</small><br>
             <em>2015-2016</em>   
         </p>
@@ -82,7 +82,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>TCS Innovation Labs</strong><br>
             Gurgaon IN<br>
-            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" height="120" style="padding: 20px 0px 20px 8px;"/></a><br>
+            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="150" style="padding: 20px 0px 20px 8px;"/></a><br>
             <small>Applied Research Intern</small><br>
             <em>Summer 2015</em>   
         </p>
@@ -91,7 +91,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>RRSC East, ISRO</strong><br>
             Kolkata IN<br>
-            <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" height="120"/></a><br>
+            <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width="100"/></a><br>
             <small>Research Intern</small><br>
             <em>Summer 2012</em>   
         </p>
