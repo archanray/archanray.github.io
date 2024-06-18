@@ -46,7 +46,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>MSKCC</strong><br>
             New York NY<br>
-            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="89"/></a><br>
+            <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="89.5"/></a><br>
             <small>Postdoc</small><br>
             <em>2024-present</em>   
         </p>
@@ -73,7 +73,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>ISI Kolkata</strong><br>
             Kolkata IN<br>
-            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="87.5"/></a><br>
+            <a href="https://www.isical.ac.in/"><img src="images/isikol.png" width="87"/></a><br>
             <small>Visiting Research Scientist</small><br>
             <em>2015-2016</em>   
         </p>
@@ -82,7 +82,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>TCS Innovation Labs</strong><br>
             Gurgaon IN<br>
-            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="150" style="padding: 20px 0px 20px 8px;"/></a><br>
+            <a href="https://www.tcs.com/research-and-innovation"><img src="images/tcs.png" width="148" style="padding: 20px 0px 20px 8px;"/></a><br>
             <small>Applied Research Intern</small><br>
             <em>Summer 2015</em>   
         </p>
@@ -91,7 +91,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
         <p class="text-center">
             <strong>RRSC East, ISRO</strong><br>
             Kolkata IN<br>
-            <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width="100"/></a><br>
+            <a href="https://www.nrsc.gov.in/"><img src="images/isro.png" width="98"/></a><br>
             <small>Research Intern</small><br>
             <em>Summer 2012</em>   
         </p>
