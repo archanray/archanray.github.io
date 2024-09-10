@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Archan Ray"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Scholar at the Sloan Kettering Institute, NY"
+  bio              : "Applied Research Scientist at JP Morgan Chase"
   location         : "New York, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aREa2pwAAAAJ&hl=en&oi=ao"
-  email            : "raya2 AT mskcc DOT org"
+  email            : "archan.ray AT jpmchase DOT com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

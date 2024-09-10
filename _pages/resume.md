@@ -42,13 +42,22 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
 ## Experience
 
 <div style="display:flex">
+      <div style="flex:1;padding-right:5px;">
+        <p class="text-center">
+            <strong>JP Morgan Chase</strong><br>
+            New York NY<br>
+            <a href="https://www.jpmorgan.com/technology/applied-research"><img src="images/jpmc.jpg" width="89.5"/></a><br>
+            <small>Applied Research Scientist</small><br>
+            <em>June 2024-present</em>
+        </p>
+     </div>
      <div style="flex:1;padding-right:5px;">
         <p class="text-center">
             <strong>MSKCC</strong><br>
             New York NY<br>
             <a href="https://www.mskcc.org/research/ski/"><img src="images/mskcc.svg" width="89.5"/></a><br>
             <small>Postdoc</small><br>
-            <em>2024-present</em>   
+            <em>Summer 2024</em>   
         </p>
      </div>
      <div style="flex:1;padding-right:5px;">
