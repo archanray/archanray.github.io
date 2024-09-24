@@ -94,7 +94,20 @@ uncompressed TIFF images. The images and annotations are available from the foll
   </details>
 
 ### Theses/Dissertations
-  
+
+- [Sublinear Algorithms for Matrices: Theory and Applications](https://scholarworks.umass.edu/server/api/core/bitstreams/40f82c07-9d5e-4560-b601-5ec3a59794d4/content)
+  <br>
+  Archan Ray
+  <br>
+  Ph.D. Dissertation, UMass Amherst, 2024. <br>
+  <details><summary> Abstract </summary>
+  Matrices are ubiquitous mathematical structures that arise throughout computer science. We study fast algorithms for several central problems involving matrices, including eigenvalue approximation, spectral approximation, and low-rank approximation. In particular, we focus on \textit{sublinear time} or \textit{sublinear query} algorithms that can scale to very large matrices. We focus on developing algorithms with theoretical bounds and demonstrate the applicability of these algorithms on real-world datasets. 
+    
+  We first present a simple randomized algorithm for approximating \textit{all} the eigenvalues of a bounded-entry matrix to a small additive error by querying a small random submatrix of the input matrix. Next, we give the first sublinear query deterministic algorithms that can approximate any symmetric matrix $\mathbf{A}$ in the spectral norm -- i.e., that output $\tilde{\mathbf{A}}$ where $\|\mathbf{A}-\tilde{\mathbf{A}}\|_2$ is bounded. Using this result, we give the first deterministic algorithm that can approximate all the singular values of any symmetric matrix to small additive error in faster than matrix multiplication time. We further extend the above results by improving the query complexity in the case when $\mathbf{A}$ is positive semidefinite (PSD) with entries in $\{-1,0,1\}$.
+
+  Then we empirically analyze eigenvalue approximation of symmetric matrices using various matrix-vector query algorithms. We explore the trade-offs between adaptivity and query complexity of such algorithms. This study complements our work on algorithms that read a sublinear number of entries of the input matrix. Finally, we present a generalization of the Nystr\"{o}m method for low-rank approximations of general symmetric matrices. We conduct a comparative study of this generalized Nystr\"{o}m method and other sublinear algorithms for computing low-rank approximations of similarity matrices arising in natural language processing (NLP) tasks.
+  </details>
+
 - [Estimation of image features representing facial emotions for emotion synthesis](http://library.isical.ac.in:8080/jspui/bitstream/10263/6487/1/DISS-330.pdf)
   <br>
   Archan Ray
