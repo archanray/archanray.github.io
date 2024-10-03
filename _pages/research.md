@@ -19,6 +19,12 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 (author ordering for the papers below is alphabetical if marked \*)
 
+- [Near-Optimal Spectral Density Estimation via Explicit and Implicit Deflation\*]()
+  <br>
+  Rajarshi Bhattacharjee, Rajesh Jayaram, Cameron Musco, Christopher Musco, Archan Ray
+  <br>
+  in submission.
+
 - [Approximating Eigenvalues of Symmetric Matrices using Matrix-Vector Query Algorithms\*]()
   <br>
   Cameron Musco, Archan Ray
