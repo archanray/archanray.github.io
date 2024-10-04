@@ -25,7 +25,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   in preparation.
 
-- [Near-Optimal Spectral Density Estimation via Explicit and Implicit Deflation\*]()
+- [Improved Spectral Density Estimation via Explicit and Implicit Deflation\*]()
   <br>
   Rajarshi Bhattacharjee, Rajesh Jayaram, Cameron Musco, Christopher Musco, Archan Ray
   <br>

@@ -17,7 +17,7 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
-* (October 2024) Our paper on *Improved bounds for SDE via Implicit and Explicit Deflation* was accepted for publication at SODA 2025.
+* (October 2024) Our paper on *Improved Spectral Density Estimation via Explicit and Implicit Deflation* was accepted for publication at SODA 2025.
 * (January 2024) Our extended paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica 2024.
 * (November 2023) Our paper on *Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra* was accepted at [ITCS 2024](https://itcs-conf.org/itcs24/itcs24-cfp.html).
 * (September 2023) I successfully defended my PhD thesis. Will post slides soon!
