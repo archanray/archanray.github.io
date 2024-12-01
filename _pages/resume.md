@@ -48,7 +48,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
             New York NY<br>
             <a href="https://www.jpmorgan.com/technology/applied-research"><img src="images/jpmc.jpg" width="89.5"/></a><br>
             <small>Applied Research Scientist</small><br>
-            <em>June 2024-present</em>
+            <em>Sept 2024-present</em>
         </p>
      </div>
      <div style="flex:1;padding-right:5px;">
