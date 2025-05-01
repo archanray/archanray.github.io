@@ -18,12 +18,16 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 ### Papers
 
 (author ordering for the papers below is alphabetical if marked \*)
+(equal contribution authors marked with \+)
 
-- [Approximating Eigenvalues of Symmetric Matrices using Matrix-Vector Query Algorithms\*]()
+- [Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling](https://arxiv.org/abs/2504.20982)
   <br>
-  Cameron Musco, Archan Ray
+  Tyler Chen\+, Archan Ray\+, Akshay Seshadri\+, Dylan Herman, Bao Bach, Pranav Deshpande, Abhishek Som, Niraj Kumar, Marco Pistoia
   <br>
-  in preparation.
+  ArXiv
+  <details><summary> Abstract </summary>
+  The $k$-means algorithm (Lloyd's algorithm) is a widely used method for clustering unlabeled data. A key bottleneck of the $k$-means algorithm is that each iteration requires time linear in the number of data points, which can be expensive in big data applications. This was improved in recent works proposing quantum and quantum-inspired classical algorithms to approximate the $k$-means algorithm locally, in time depending only logarithmically on the number of data points (along with data dependent parameters) [q-means: A quantum algorithm for unsupervised machine learning; Kerenidis, Landman, Luongo, and Prakash, NeurIPS 2019; Do you know what $q$-means?, Doriguello, Luongo, Tang]. In this work, we describe a simple randomized mini-batch $k$-means algorithm and a quantum algorithm inspired by the classical algorithm. We prove worse-case guarantees that significantly improve upon the bounds for previous algorithms. Our improvements are due to a careful use of uniform sampling, which preserves certain symmetries of the $k$-means problem that are not preserved in previous algorithms that use data norm-based sampling.
+  </details>
 
 - [Improved Spectral Density Estimation via Explicit and Implicit Deflation\*](https://arxiv.org/abs/2410.21690)
   <br>
