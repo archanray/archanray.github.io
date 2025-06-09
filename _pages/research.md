@@ -9,10 +9,6 @@ author_profile: true
 
 Broadly I am interested in developing computationally efficient algorithms. These methods have become extremely relevant in today's world of million sized datasets and massive parametrized learning models. More recently I have been working on *sublinear* algorithms for matrices, i.e., algorithms that run in time less than the number of inputs. Matrices are often used to represent data and parameters of learning models, and as such large datasets and complex learning models have lead to a requirement for efficient computational algorithms. The body of my work has been on pushing the boundaries of sublinear time or sublinear query algorithms in context of matrices and their applications. Applications include -- model compression, approximate learning functions, fast search and recommendation systems, near-optimal deep nets, and approximate feature embeddings.
 
-<!---
-Broadly I am interested in approximating large matrices. These methods, applicable and prevalent in literature, have become especially relevant in today's world of million sized datasets and applications including but not limited to NLP. Specifically I am interested in designing approximations to matrices in *sublinear* time, i.e. algorithms that requires number of operations greater than the size of a dataset but lesser than the square of the size of a dataset. Applications include the study of quadratic forms and differential equations. On similar lines, a particular area of interest for me is Kernel approximation. A [kernel](https://arxiv.org/pdf/math/0701907.pdf) is often a [PSD matrix](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470173862.app3) (and sometimes indefinte like [reproducing Krien spaces](https://arxiv.org/pdf/1309.2393.pdf)) which *stores* [inner product](https://mathworld.wolfram.com/InnerProduct.html) of data points in a dataset. These inner products can be in the input space but often is in a high dimensional space induced by a mapping function. Thus computations for big datsets are again non-trivial. Approximating them when such inducing functions are changing or the size of dataset growing is of interest to the community (like [GDPR](https://gdpr-info.eu)). My overarching research goal is to find solutions to these problems using techniques borrowed from linear algebra and functional analysis.
---->
-
 Prior to this I have dabbled unsuccessfully in computer vision, where I was working on detecting and recognizing texts in maps. I also worked on image synthesis in the kernel induced space during my masters.
 
 ### Papers
@@ -20,7 +16,38 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 (author ordering for the papers below is alphabetical if marked \*)
 (equal contribution authors marked with \+)
 
-- [Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling](https://arxiv.org/abs/2504.20982)
+
+<!-- - []()
+  <br>
+  <br>
+  <details><summary> Abstract </summary>
+  </details> -->
+
+- [Adaptive and Robust Watermark for Generative Tabular Data](https://arxiv.org/pdf/2409.14700)
+  <br>
+  Dung Daniel Ngo, Daniel Scott, Saheed Obitayo, Archan Ray, Akshay Seshadri, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
+  <br>
+  <details><summary> Abstract </summary>
+  Recent development in generative models has demonstrated its ability to create high-quality synthetic data. However, the pervasiveness of synthetic content online also brings forth growing concerns that it can be used for malicious purpose. To ensure the authenticity of the data, watermarking techniques have recently emerged as a promising solution due to their strong statistical guarantees. In this paper, we propose a flexible and robust watermarking mechanism for generative tabular data. Specifically, a data provider with knowledge of the downstream tasks can partition the feature space into pairs of (key, value) columns. Within each pair, the data provider first uses elements in the key column to generate a randomized set of ``green'' intervals, then encourages elements of the value column to be in one of these ``green'' intervals. We show theoretically and empirically that the watermarked datasets (i) have negligible impact on the data quality and downstream utility, (ii) can be efficiently detected, (iii) are robust against multiple attacks commonly observed in data science, and (iv) maintain strong security against adversary attempting to learn the underlying watermark scheme.
+  </details>
+
+- [A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values](https://arxiv.org/pdf/2506.05216)
+  <br>
+  Tyler Chen\+, Akshay Seshadri\+, Mattia J. Villani\+, Pradeep Niroula, Shouvanik Chakrabarti, Archan Ray, Pranav Deshpande, Romina Yalovetzky, Marco Pistoia, Niraj Kumar
+  <br>
+  <details><summary> Abstract </summary>
+  Shapley values have emerged as a critical tool for explaining which features impact the decisions made by machine learning models. However, computing exact Shapley values is difficult, generally requiring an exponential (in the feature dimension) number of model evaluations. To address this, many model-agnostic randomized estimators have been developed, the most influential and widely used being the KernelSHAP method (Lundberg & Lee, 2017). While related estimators such as unbiased KernelSHAP (Covert & Lee, 2021) and LeverageSHAP (Musco & Witter, 2025) are known to satisfy theoretical guarantees, bounds for KernelSHAP have remained elusive. We describe a broad and unified framework that encompasses KernelSHAP and related estimators constructed using both with and without replacement sampling strategies. We then prove strong non-asymptotic theoretical guarantees that apply to all estimators from our framework. This provides, to the best of our knowledge, the first theoretical guarantees for KernelSHAP and sheds further light on tradeoffs between existing estimators. Through comprehensive benchmarking on small and medium dimensional datasets for Decision-Tree models, we validate our approach against exact Shapley values, consistently achieving low mean squared error with modest sample sizes. Furthermore, we make specific implementation improvements to enable scalability of our methods to high-dimensional datasets. Our methods, tested on datasets such MNIST and CIFAR10, provide consistently better results compared to the KernelSHAP library.
+  </details>
+
+- [GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches\*](https://arxiv.org/pdf/2506.03070)
+  <br>
+  Tyler Chen, Pradeep Niroula, Archan Ray, Pragna Subrahmanya, Marco Pistoia, Niraj Kumar
+  <br>
+  <details><summary> Abstract </summary>
+  A litany of theoretical and numerical results have established the sketch-and-precondition paradigm as a powerful approach to solving large linear regression problems in standard computing environments. Perhaps surprisingly, much less work has been done on understanding how sketch-and-precondition performs on graphics processing unit (GPU) systems. We address this gap by benchmarking an implementation of sketch-and-precondition based on sparse sign-sketches on single and multi-GPU systems. In doing so, we describe a novel, easily parallelized, rejection-sampling based method for generating sparse sign sketches. Our approach, which is particularly well-suited for GPUs, is easily adapted to a variety of computing environments. Taken as a whole, our numerical experiments indicate that sketch-and-precondition with sparse sign sketches is particularly well-suited for GPUs, and may be suitable for use in black-box least-squares solvers.
+  </details>
+
+- [Provably Faster Randomized and Quantum Algorithms for *k*-means Clustering via Uniform Sampling](https://arxiv.org/abs/2504.20982)
   <br>
   Tyler Chen\+, Archan Ray\+, Akshay Seshadri\+, Dylan Herman, Bao Bach, Pranav Deshpande, Abhishek Som, Niraj Kumar, Marco Pistoia
   <br>
