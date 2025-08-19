@@ -22,6 +22,13 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   <details><summary> Abstract </summary>
   </details> -->
+- [A simple analysis of a quantum-inspired algorithm for solving low-rank linear systems](https://arxiv.org/pdf/2508.13108)
+  <br>
+  Tyler Chen\+, Junhyung Lyle Kim\+, Archan Ray\+, Shouvanik Chakrabarti, Dylan Herman, Niraj Kumar
+  <br>
+  <details><summary> Abstract </summary>
+  We describe and analyze a simple algorithm for sampling from the solution $x^* := A^+ b$ to a linear system $Ax=b$. We assume access to a sampler which allows us to draw indices proportional to the squared row/column-norms of $A$. Our algorithm produces a compressed representation of some vector $x$ for which $\|x^*−x\|< \epsilon\|x^*\|$ in $\tilde{O}(\kappa_F^4\kappa^2/\epsilon^2)$ time, where $\kappa_F := \|A\|_F\|A^+\|$ and $\kappa := \|A\|\|A^+\|$. The representation of $x$ allows us to query entries of $x$ in $\tilde{O}(\kappa_F^2)$ time and sample proportional to the square entries of $x$ in $\tilde{O}(\kappa_F^4\kappa^6)$ time, assuming access to a sampler which allows us to draw indices proportional to the squared entries of any given row of $A$. Our analysis, which is elementary, non-asymptotic, and fully self-contained, simplifies and clarifies several past analyses from literature including [Gilyén, Song, and Tang; 2022, 2023] and [Shao and Montanaro; 2022].
+  </details>
 
 - [MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2506.09105)
   <br>
