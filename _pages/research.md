@@ -40,11 +40,12 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
 
 - [Adaptive and Robust Watermark for Generative Tabular Data](https://arxiv.org/pdf/2409.14700)
   <br>
-  Dung Daniel Ngo, Daniel Scott, Saheed Obitayo, Archan Ray, Akshay Seshadri, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
+  Dung Daniel Ngo\+, Archan Ray\+, Akshay Seshadri\+, Daniel Scott, Saheed Obitayo, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
   <br>
   <details><summary> Abstract </summary>
-  Recent development in generative models has demonstrated its ability to create high-quality synthetic data. However, the pervasiveness of synthetic content online also brings forth growing concerns that it can be used for malicious purpose. To ensure the authenticity of the data, watermarking techniques have recently emerged as a promising solution due to their strong statistical guarantees. In this paper, we propose a flexible and robust watermarking mechanism for generative tabular data. Specifically, a data provider with knowledge of the downstream tasks can partition the feature space into pairs of (key, value) columns. Within each pair, the data provider first uses elements in the key column to generate a randomized set of "green" intervals, then encourages elements of the value column to be in one of these "green" intervals. We show theoretically and empirically that the watermarked datasets (i) have negligible impact on the data quality and downstream utility, (ii) can be efficiently detected, (iii) are robust against multiple attacks commonly observed in data science, and (iv) maintain strong security against adversary attempting to learn the underlying watermark scheme.
+  In recent years, watermarking generative tabular data has become a prominent framework to protect against the misuse of synthetic data. However, while most prior work in watermarking methods for tabular data demonstrate a wide variety of desirable properties (e.g., high fidelity, detectability, robustness), the findings often emphasize empirical guarantees against common oblivious and adversarial attacks. In this paper, we study a flexible and robust watermarking algorithm for generative tabular data. Specifically, we demonstrate theoretical guarantees on the performance of the algorithm on metrics like fidelity, detectability, robustness, and hardness of decoding. The proof techniques introduced in this work may be of independent interest and may find applicability in other areas of machine learning. Finally, we validate our theoretical findings on synthetic and real-world tabular datasets.
   </details>
+
 
 - [A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values](https://arxiv.org/pdf/2506.05216)
   <br>
