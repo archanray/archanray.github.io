@@ -54,7 +54,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   A litany of theoretical and numerical results have established the sketch-and-precondition paradigm as a powerful approach to solving large linear regression problems in standard computing environments. Perhaps surprisingly, much less work has been done on understanding how sketch-and-precondition performs on graphics processing unit (GPU) systems. We address this gap by benchmarking an implementation of sketch-and-precondition based on sparse sign-sketches on single and multi-GPU systems. In doing so, we describe a novel, easily parallelized, rejection-sampling based method for generating sparse sign sketches. Our approach, which is particularly well-suited for GPUs, is easily adapted to a variety of computing environments. Taken as a whole, our numerical experiments indicate that sketch-and-precondition with sparse sign sketches is particularly well-suited for GPUs, and may be suitable for use in black-box least-squares solvers.
   </details>
 
-- [Provably Faster Randomized and Quantum Algorithms for $k$-means Clustering via Uniform Sampling](https://arxiv.org/abs/2504.20982)
+- [Provably Faster Randomized and Quantum Algorithms for $k$-means Clustering via Uniform Sampling](https://arxiv.org/pdf/2504.20982)
   <br>
   Tyler Chen$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Dylan Herman, Bao Bach, Pranav Deshpande, Abhishek Som, Niraj Kumar, Marco Pistoia
   <details><summary> Abstract </summary>
