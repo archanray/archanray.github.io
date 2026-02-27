@@ -46,19 +46,20 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   In recent years, watermarking generative tabular data has become a prominent framework to protect against the misuse of synthetic data. However, while most prior work in watermarking methods for tabular data demonstrate a wide variety of desirable properties (e.g., high fidelity, detectability, robustness), the findings often emphasize empirical guarantees against common oblivious and adversarial attacks. In this paper, we study a flexible and robust watermarking algorithm for generative tabular data. Specifically, we demonstrate theoretical guarantees on the performance of the algorithm on metrics like fidelity, detectability, robustness, and hardness of decoding. The proof techniques introduced in this work may be of independent interest and may find applicability in other areas of machine learning. Finally, we validate our theoretical findings on synthetic and real-world tabular datasets.
   </details>
 
-- [GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches\*](https://arxiv.org/pdf/2506.03070)
-  <br>
-  Tyler Chen, Pradeep Niroula, Archan Ray, Pragna Subrahmanya, Marco Pistoia, Niraj Kumar
-  <br>
-  <details><summary> Abstract </summary>
-  A litany of theoretical and numerical results have established the sketch-and-precondition paradigm as a powerful approach to solving large linear regression problems in standard computing environments. Perhaps surprisingly, much less work has been done on understanding how sketch-and-precondition performs on graphics processing unit (GPU) systems. We address this gap by benchmarking an implementation of sketch-and-precondition based on sparse sign-sketches on single and multi-GPU systems. In doing so, we describe a novel, easily parallelized, rejection-sampling based method for generating sparse sign sketches. Our approach, which is particularly well-suited for GPUs, is easily adapted to a variety of computing environments. Taken as a whole, our numerical experiments indicate that sketch-and-precondition with sparse sign sketches is particularly well-suited for GPUs, and may be suitable for use in black-box least-squares solvers.
-  </details>
-
 - [Provably Faster Randomized and Quantum Algorithms for $k$-means Clustering via Uniform Sampling](https://arxiv.org/pdf/2504.20982)
   <br>
   Tyler Chen$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Dylan Herman, Bao Bach, Pranav Deshpande, Abhishek Som, Niraj Kumar, Marco Pistoia
   <details><summary> Abstract </summary>
   The $k$-means algorithm (Lloyd's algorithm) is a widely used method for clustering unlabeled data. A key bottleneck of the $k$-means algorithm is that each iteration requires time linear in the number of data points, which can be expensive in big data applications. This was improved in recent works proposing quantum and quantum-inspired classical algorithms to approximate the $k$-means algorithm locally, in time depending only logarithmically on the number of data points (along with data dependent parameters) [q-means: A quantum algorithm for unsupervised machine learning; Kerenidis, Landman, Luongo, and Prakash, NeurIPS 2019; Do you know what $q$-means?, Doriguello, Luongo, Tang]. In this work, we describe a simple randomized mini-batch $k$-means algorithm and a quantum algorithm inspired by the classical algorithm. We prove worse-case guarantees that significantly improve upon the bounds for previous algorithms. Our improvements are due to a careful use of uniform sampling, which preserves certain symmetries of the $k$-means problem that are not preserved in previous algorithms that use data norm-based sampling.
+  </details>
+
+- [GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches\*](https://arxiv.org/pdf/2506.03070)
+  <br>
+  Tyler Chen, Pradeep Niroula, Archan Ray, Pragna Subrahmanya, Marco Pistoia, Niraj Kumar
+  <br>
+  International Workshop on Parallel and Distributed Scientific and Engineering Computing 2026 (PDSEC 2026) <br>
+  <details><summary> Abstract </summary>
+  A litany of theoretical and numerical results have established the sketch-and-precondition paradigm as a powerful approach to solving large linear regression problems in standard computing environments. Perhaps surprisingly, much less work has been done on understanding how sketch-and-precondition performs on graphics processing unit (GPU) systems. We address this gap by benchmarking an implementation of sketch-and-precondition based on sparse sign-sketches on single and multi-GPU systems. In doing so, we describe a novel, easily parallelized, rejection-sampling based method for generating sparse sign sketches. Our approach, which is particularly well-suited for GPUs, is easily adapted to a variety of computing environments. Taken as a whole, our numerical experiments indicate that sketch-and-precondition with sparse sign sketches is particularly well-suited for GPUs, and may be suitable for use in black-box least-squares solvers.
   </details>
 
 - [A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values](https://arxiv.org/pdf/2506.05216)
