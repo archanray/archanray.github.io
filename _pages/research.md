@@ -22,14 +22,6 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   <details><summary> Abstract </summary>
   </details> -->
-- [A simple analysis of a quantum-inspired algorithm for solving low-rank linear systems](https://arxiv.org/pdf/2508.13108)
-  <br>
-  Tyler Chen$^{\dagger}$, Junhyung Lyle Kim$^{\dagger}$, Archan Ray$^{\dagger}$, Shouvanik Chakrabarti, Dylan Herman, Niraj Kumar
-  <br>
-  <details><summary> Abstract </summary>
-  We describe and analyze a simple algorithm for sampling from the solution $x^* := A^+ b$ to a linear system $Ax=b$. We assume access to a sampler which allows us to draw indices proportional to the squared row/column-norms of $A$. Our algorithm produces a compressed representation of some vector $x$ for which $\|x^*−x\|< \epsilon\|x^*\|$ in $\tilde{O}(\kappa_F^4\kappa^2/\epsilon^2)$ time, where $\kappa_F := \|A\|_F\|A^+\|$ and $\kappa := \|A\|\|A^+\|$. The representation of $x$ allows us to query entries of $x$ in $\tilde{O}(\kappa_F^2)$ time and sample proportional to the square entries of $x$ in $\tilde{O}(\kappa_F^4\kappa^6)$ time, assuming access to a sampler which allows us to draw indices proportional to the squared entries of any given row of $A$. Our analysis, which is elementary, non-asymptotic, and fully self-contained, simplifies and clarifies several past analyses from literature including [Gilyén, Song, and Tang; 2022, 2023] and [Shao and Montanaro; 2022].
-  </details>
-
 - [Adaptive and Robust Watermark for Generative Tabular Data](https://arxiv.org/pdf/2409.14700)
   <br>
   Dung Daniel Ngo$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Daniel Scott, Saheed Obitayo, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
@@ -49,7 +41,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar
   <br>
-  Transactions on Machine Learning Research
+  Transactions on Machine Learning Research 2026
   <br>
   <details><summary> Abstract </summary>
   We present MetaTT, a unified Tensor Train (TT) adapter framework for global low-rank fine-tuning of pre-trained transformers. Unlike LoRA, which fine-tunes each weight matrix independently, MetaTT uses a single shared TT to factorize all transformer sub-modules -- query, key, value, projection, and feed-forward layers -- by indexing the structural axes like layer and matrix type, and optionally heads and tasks. For a given rank, while LoRA adds parameters proportional to the product across modes, MetaTT only adds parameters proportional to the sum across modes leading to a significantly compressed final adapter. Our benchmarks compare MetaTT with LoRA along with recent state-of-the-art matrix and tensor decomposition based fine-tuning schemes. We observe that when tested on standard language modeling benchmarks, MetaTT leads to the most reduction in the parameters while maintaining similar accuracy to LoRA and even outperforming other tensor-based methods. Unlike CP or other rank-factorizations, the TT ansatz benefits from mature optimization routines -- e.g., DMRG-style rank adaptive minimization in addition to Adam, which we find simplifies training. Because new modes can be appended cheaply, MetaTT naturally extends to shared adapters across many tasks without redesigning the core tensor.
@@ -62,6 +54,14 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   International Workshop on Parallel and Distributed Scientific and Engineering Computing 2026 (PDSEC 2026) **Best Paper Award** <br>
   <details><summary> Abstract </summary>
   A litany of theoretical and numerical results have established the sketch-and-precondition paradigm as a powerful approach to solving large linear regression problems in standard computing environments. Perhaps surprisingly, much less work has been done on understanding how sketch-and-precondition performs on graphics processing unit (GPU) systems. We address this gap by benchmarking an implementation of sketch-and-precondition based on sparse sign-sketches on single and multi-GPU systems. In doing so, we describe a novel, easily parallelized, rejection-sampling based method for generating sparse sign sketches. Our approach, which is particularly well-suited for GPUs, is easily adapted to a variety of computing environments. Taken as a whole, our numerical experiments indicate that sketch-and-precondition with sparse sign sketches is particularly well-suited for GPUs, and may be suitable for use in black-box least-squares solvers.
+  </details>
+
+- [A simple analysis of a quantum-inspired algorithm for solving low-rank linear systems](https://arxiv.org/pdf/2508.13108)
+  <br>
+  Tyler Chen$^{\dagger}$, Junhyung Lyle Kim$^{\dagger}$, Archan Ray$^{\dagger}$, Shouvanik Chakrabarti, Dylan Herman, Niraj Kumar
+  <br>
+  <details><summary> Abstract </summary>
+  We describe and analyze a simple algorithm for sampling from the solution $x^* := A^+ b$ to a linear system $Ax=b$. We assume access to a sampler which allows us to draw indices proportional to the squared row/column-norms of $A$. Our algorithm produces a compressed representation of some vector $x$ for which $\|x^*−x\|< \epsilon\|x^*\|$ in $\tilde{O}(\kappa_F^4\kappa^2/\epsilon^2)$ time, where $\kappa_F := \|A\|_F\|A^+\|$ and $\kappa := \|A\|\|A^+\|$. The representation of $x$ allows us to query entries of $x$ in $\tilde{O}(\kappa_F^2)$ time and sample proportional to the square entries of $x$ in $\tilde{O}(\kappa_F^4\kappa^6)$ time, assuming access to a sampler which allows us to draw indices proportional to the squared entries of any given row of $A$. Our analysis, which is elementary, non-asymptotic, and fully self-contained, simplifies and clarifies several past analyses from literature including [Gilyén, Song, and Tang; 2022, 2023] and [Shao and Montanaro; 2022].
   </details>
 
 - [A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values](https://arxiv.org/pdf/2506.05216)
