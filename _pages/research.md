@@ -30,14 +30,6 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   We describe and analyze a simple algorithm for sampling from the solution $x^* := A^+ b$ to a linear system $Ax=b$. We assume access to a sampler which allows us to draw indices proportional to the squared row/column-norms of $A$. Our algorithm produces a compressed representation of some vector $x$ for which $\|x^*−x\|< \epsilon\|x^*\|$ in $\tilde{O}(\kappa_F^4\kappa^2/\epsilon^2)$ time, where $\kappa_F := \|A\|_F\|A^+\|$ and $\kappa := \|A\|\|A^+\|$. The representation of $x$ allows us to query entries of $x$ in $\tilde{O}(\kappa_F^2)$ time and sample proportional to the square entries of $x$ in $\tilde{O}(\kappa_F^4\kappa^6)$ time, assuming access to a sampler which allows us to draw indices proportional to the squared entries of any given row of $A$. Our analysis, which is elementary, non-asymptotic, and fully self-contained, simplifies and clarifies several past analyses from literature including [Gilyén, Song, and Tang; 2022, 2023] and [Shao and Montanaro; 2022].
   </details>
 
-- [MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2506.09105)
-  <br>
-  Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar
-  <br>
-  <details><summary> Abstract </summary>
-  We present MetaTT, a unified Tensor Train (TT) adapter framework for global low-rank fine-tuning of pre-trained transformers. Unlike LoRA, which fine-tunes each weight matrix independently, MetaTT uses a single shared TT to factorize all transformer sub-modules -- query, key, value, projection, and feed-forward layers -- by indexing the structural axes like layer and matrix type, and optionally heads and tasks. For a given rank, while LoRA adds parameters proportional to the product across modes, MetaTT only adds parameters proportional to the sum across modes leading to a significantly compressed final adapter. Our benchmarks compare MetaTT with LoRA along with recent state-of-the-art matrix and tensor decomposition based fine-tuning schemes. We observe that when tested on standard language modeling benchmarks, MetaTT leads to the most reduction in the parameters while maintaining similar accuracy to LoRA and even outperforming other tensor-based methods. Unlike CP or other rank-factorizations, the TT ansatz benefits from mature optimization routines -- e.g., DMRG-style rank adaptive minimization in addition to Adam, which we find simplifies training. Because new modes can be appended cheaply, MetaTT naturally extends to shared adapters across many tasks without redesigning the core tensor.
-  </details>
-
 - [Adaptive and Robust Watermark for Generative Tabular Data](https://arxiv.org/pdf/2409.14700)
   <br>
   Dung Daniel Ngo$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Daniel Scott, Saheed Obitayo, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
@@ -51,6 +43,16 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   Tyler Chen$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Dylan Herman, Bao Bach, Pranav Deshpande, Abhishek Som, Niraj Kumar, Marco Pistoia
   <details><summary> Abstract </summary>
   The $k$-means algorithm (Lloyd's algorithm) is a widely used method for clustering unlabeled data. A key bottleneck of the $k$-means algorithm is that each iteration requires time linear in the number of data points, which can be expensive in big data applications. This was improved in recent works proposing quantum and quantum-inspired classical algorithms to approximate the $k$-means algorithm locally, in time depending only logarithmically on the number of data points (along with data dependent parameters) [q-means: A quantum algorithm for unsupervised machine learning; Kerenidis, Landman, Luongo, and Prakash, NeurIPS 2019; Do you know what $q$-means?, Doriguello, Luongo, Tang]. In this work, we describe a simple randomized mini-batch $k$-means algorithm and a quantum algorithm inspired by the classical algorithm. We prove worse-case guarantees that significantly improve upon the bounds for previous algorithms. Our improvements are due to a careful use of uniform sampling, which preserves certain symmetries of the $k$-means problem that are not preserved in previous algorithms that use data norm-based sampling.
+  </details>
+
+- [MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2506.09105)
+  <br>
+  Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar
+  <br>
+  Transactions on Machine Learning Research
+  <br>
+  <details><summary> Abstract </summary>
+  We present MetaTT, a unified Tensor Train (TT) adapter framework for global low-rank fine-tuning of pre-trained transformers. Unlike LoRA, which fine-tunes each weight matrix independently, MetaTT uses a single shared TT to factorize all transformer sub-modules -- query, key, value, projection, and feed-forward layers -- by indexing the structural axes like layer and matrix type, and optionally heads and tasks. For a given rank, while LoRA adds parameters proportional to the product across modes, MetaTT only adds parameters proportional to the sum across modes leading to a significantly compressed final adapter. Our benchmarks compare MetaTT with LoRA along with recent state-of-the-art matrix and tensor decomposition based fine-tuning schemes. We observe that when tested on standard language modeling benchmarks, MetaTT leads to the most reduction in the parameters while maintaining similar accuracy to LoRA and even outperforming other tensor-based methods. Unlike CP or other rank-factorizations, the TT ansatz benefits from mature optimization routines -- e.g., DMRG-style rank adaptive minimization in addition to Adam, which we find simplifies training. Because new modes can be appended cheaply, MetaTT naturally extends to shared adapters across many tasks without redesigning the core tensor.
   </details>
 
 - [GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches\*](https://arxiv.org/pdf/2506.03070)
