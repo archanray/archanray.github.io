@@ -109,6 +109,7 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
 
 ## Awards
 
+* *Best Paper Award*, 27th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing, May 2026
 * *CICS Dissertation Writing Fellowship*, CICS, University of Massachusetts, Amherst, January 2023
 * *AAAI-22 Student Scholarship*, 36th AAAI Conference on Artificial Intelligence, January 2022
 * *Best Dissertation* (M.Tech in Computer Science), Indian Statistical Institute, July 2015
