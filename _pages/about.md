@@ -17,20 +17,24 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 ## News
 
-* (September 2025) Our paper on *A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values* was accepted for publication at [Neurips 2025](https://neurips.cc/)
-* (October 2024) Our paper on *Improved Spectral Density Estimation via Explicit and Implicit Deflation* was accepted for publication at [SODA 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/).
-* (January 2024) Our extended paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica 2024.
-* (November 2023) Our paper on *Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra* was accepted at [ITCS 2024](https://itcs-conf.org/itcs24/itcs24-cfp.html).
+* (June 2026) Our paper, *Adaptive and Robust Watermark for Generative Tabular Data* was accepted for publication at [UAI 2026](https://www.auai.org/uai2026/).
+* (May 2026) Our paper, *MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning* was accepted for publication at [TMLR 2026](https://jmlr.org/tmlr/).
+* (May 2026) Presented our work, *GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches* at [PDSEC 2026](https://www.ieee-tcsc.org/2026/pdsec/)
+* (April 2026) Our paper, *GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches* won the best paper award at [PDSEC 2026](https://www.ieee-tcsc.org/2026/pdsec/)
+* (September 2025) Our paper, *A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values* was accepted for publication at [Neurips 2025](https://neurips.cc/)
+* (October 2024) Our paper, *Improved Spectral Density Estimation via Explicit and Implicit Deflation* was accepted for publication at [SODA 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/).
+* (January 2024) Our extended paper, *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica 2024.
+* (November 2023) Our paper, *Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra* was accepted at [ITCS 2024](https://itcs-conf.org/itcs24/itcs24-cfp.html).
 * (September 2023) I successfully defended my PhD thesis. Will post slides soon!
-* (July 2023) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [ICALP 2023](https://icalp2023.cs.upb.de/).
-* (April 2023) Our paper on *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at [ICALP 2023](https://icalp2023.cs.upb.de/).
+* (July 2023) Presented our work, *Sublinear Time Eigenvalue Approximation via Random Sampling* at [ICALP 2023](https://icalp2023.cs.upb.de/).
+* (April 2023) Our paper, *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at [ICALP 2023](https://icalp2023.cs.upb.de/).
 * (February 2023) I passed my Thesis Proposal Defense.
 * (January 2023) Awarded *CICS Dissertation Writing Fellowship* for Spring 2023.
-* (August 2022) Presented our work on *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
+* (August 2022) Presented our work, *Sublinear Time Eigenvalue Approximation via Random Sampling* at [FODSI Sublinear Algorithms Workshop 2022](https://fodsi.us/sublinear.html). [[link to poster]](docs/eigenvalue_estimate_poster_fodsi.pdf)
 * (January 2022) Awarded *AAAI-22 Student Scholarship*.
-* (December 2021) Our paper on *Sublinear Time Approximation of Text Similarity Matrices* was accepted for publication at [AAA1 2022](https://aaai.org/Conferences/AAAI-22/).
-* (August 2021) Presented our work on *Estimating Eigenvalues of Symmetric Matrices using Random Submatrices* at [WALD(O) 2021](https://waldo2021.github.io/). [[link to poster]](https://waldo2021.github.io/P018--poster.pdf)
-* (June 2021) Presented our work on *Kernel approximation in sliding window models* at [WOLA 2021](https://www.local-algorithms.com/). [[link to poster]](https://www.local-algorithms.com/posters/archan.pdf)
+* (December 2021) Our paper, *Sublinear Time Approximation of Text Similarity Matrices* was accepted for publication at [AAA1 2022](https://aaai.org/Conferences/AAAI-22/).
+* (August 2021) Presented our work, *Estimating Eigenvalues of Symmetric Matrices using Random Submatrices* at [WALD(O) 2021](https://waldo2021.github.io/). [[link to poster]](https://waldo2021.github.io/P018--poster.pdf)
+* (June 2021) Presented our work, *Kernel approximation in sliding window models* at [WOLA 2021](https://www.local-algorithms.com/). [[link to poster]](https://www.local-algorithms.com/posters/archan.pdf)
 
 ## About this website
 

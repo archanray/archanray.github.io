@@ -22,13 +22,6 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   <details><summary> Abstract </summary>
   </details> -->
-- [Adaptive and Robust Watermark for Generative Tabular Data](https://arxiv.org/pdf/2409.14700)
-  <br>
-  Dung Daniel Ngo$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Daniel Scott, Saheed Obitayo, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
-  <br>
-  <details><summary> Abstract </summary>
-  In recent years, watermarking generative tabular data has become a prominent framework to protect against the misuse of synthetic data. However, while most prior work in watermarking methods for tabular data demonstrate a wide variety of desirable properties (e.g., high fidelity, detectability, robustness), the findings often emphasize empirical guarantees against common oblivious and adversarial attacks. In this paper, we study a flexible and robust watermarking algorithm for generative tabular data. Specifically, we demonstrate theoretical guarantees on the performance of the algorithm on metrics like fidelity, detectability, robustness, and hardness of decoding. The proof techniques introduced in this work may be of independent interest and may find applicability in other areas of machine learning. Finally, we validate our theoretical findings on synthetic and real-world tabular datasets.
-  </details>
 
 - [Provably Faster Randomized and Quantum Algorithms for $k$-means Clustering via Uniform Sampling](https://arxiv.org/pdf/2504.20982)
   <br>
@@ -37,11 +30,22 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   The $k$-means algorithm (Lloyd's algorithm) is a widely used method for clustering unlabeled data. A key bottleneck of the $k$-means algorithm is that each iteration requires time linear in the number of data points, which can be expensive in big data applications. This was improved in recent works proposing quantum and quantum-inspired classical algorithms to approximate the $k$-means algorithm locally, in time depending only logarithmically on the number of data points (along with data dependent parameters) [q-means: A quantum algorithm for unsupervised machine learning; Kerenidis, Landman, Luongo, and Prakash, NeurIPS 2019; Do you know what $q$-means?, Doriguello, Luongo, Tang]. In this work, we describe a simple randomized mini-batch $k$-means algorithm and a quantum algorithm inspired by the classical algorithm. We prove worse-case guarantees that significantly improve upon the bounds for previous algorithms. Our improvements are due to a careful use of uniform sampling, which preserves certain symmetries of the $k$-means problem that are not preserved in previous algorithms that use data norm-based sampling.
   </details>
 
+- [Adaptive and Robust Watermark for Generative Tabular Data](https://arxiv.org/pdf/2409.14700)
+  <br>
+  Dung Daniel Ngo$^{\dagger}$, Archan Ray$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Daniel Scott, Saheed Obitayo, Niraj Kumar, Vamsi K. Potluru, Marco Pistoia, Manuela Veloso
+  <br>
+  Conference on Uncertainty in Artificial Intelligence (UAI) 2026.
+  <br>
+  <details><summary> Abstract </summary>
+  In recent years, watermarking generative tabular data has become a prominent framework to protect against the misuse of synthetic data. However, while most prior work in watermarking methods for tabular data demonstrate a wide variety of desirable properties (e.g., high fidelity, detectability, robustness), the findings often emphasize empirical guarantees against common oblivious and adversarial attacks. In this paper, we study a flexible and robust watermarking algorithm for generative tabular data. Specifically, we demonstrate theoretical guarantees on the performance of the algorithm on metrics like fidelity, detectability, robustness, and hardness of decoding. The proof techniques introduced in this work may be of independent interest and may find applicability in other areas of machine learning. Finally, we validate our theoretical findings on synthetic and real-world tabular datasets.
+  </details>
+
+
 - [MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2506.09105)
   <br>
   Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar
   <br>
-  Transactions on Machine Learning Research 2026
+  Transactions on Machine Learning Research 2026.
   <br>
   <details><summary> Abstract </summary>
   We present MetaTT, a unified Tensor Train (TT) adapter framework for global low-rank fine-tuning of pre-trained transformers. Unlike LoRA, which fine-tunes each weight matrix independently, MetaTT uses a single shared TT to factorize all transformer sub-modules -- query, key, value, projection, and feed-forward layers -- by indexing the structural axes like layer and matrix type, and optionally heads and tasks. For a given rank, while LoRA adds parameters proportional to the product across modes, MetaTT only adds parameters proportional to the sum across modes leading to a significantly compressed final adapter. Our benchmarks compare MetaTT with LoRA along with recent state-of-the-art matrix and tensor decomposition based fine-tuning schemes. We observe that when tested on standard language modeling benchmarks, MetaTT leads to the most reduction in the parameters while maintaining similar accuracy to LoRA and even outperforming other tensor-based methods. Unlike CP or other rank-factorizations, the TT ansatz benefits from mature optimization routines -- e.g., DMRG-style rank adaptive minimization in addition to Adam, which we find simplifies training. Because new modes can be appended cheaply, MetaTT naturally extends to shared adapters across many tasks without redesigning the core tensor.
@@ -51,7 +55,8 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   Tyler Chen, Pradeep Niroula, Archan Ray, Pragna Subrahmanya, Marco Pistoia, Niraj Kumar
   <br>
-  International Workshop on Parallel and Distributed Scientific and Engineering Computing 2026 (PDSEC 2026) **Best Paper Award** <br>
+  International Workshop on Parallel and Distributed Scientific and Engineering Computing 2026 (PDSEC 2026) **Best Paper Award**.
+  <br>
   <details><summary> Abstract </summary>
   A litany of theoretical and numerical results have established the sketch-and-precondition paradigm as a powerful approach to solving large linear regression problems in standard computing environments. Perhaps surprisingly, much less work has been done on understanding how sketch-and-precondition performs on graphics processing unit (GPU) systems. We address this gap by benchmarking an implementation of sketch-and-precondition based on sparse sign-sketches on single and multi-GPU systems. In doing so, we describe a novel, easily parallelized, rejection-sampling based method for generating sparse sign sketches. Our approach, which is particularly well-suited for GPUs, is easily adapted to a variety of computing environments. Taken as a whole, our numerical experiments indicate that sketch-and-precondition with sparse sign sketches is particularly well-suited for GPUs, and may be suitable for use in black-box least-squares solvers.
   </details>
@@ -68,7 +73,8 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   Tyler Chen$^{\dagger}$, Akshay Seshadri$^{\dagger}$, Mattia J. Villani$^{\dagger}$, Pradeep Niroula, Shouvanik Chakrabarti, Archan Ray, Pranav Deshpande, Romina Yalovetzky, Marco Pistoia, Niraj Kumar
   <br>
-  Annual Conference on Neural Information Processing Systems (NeurIPS) 2025 <br>
+  Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.
+  <br>
   <details><summary> Abstract </summary>
   Shapley values have emerged as a critical tool for explaining which features impact the decisions made by machine learning models. However, computing exact Shapley values is difficult, generally requiring an exponential (in the feature dimension) number of model evaluations. To address this, many model-agnostic randomized estimators have been developed, the most influential and widely used being the KernelSHAP method (Lundberg & Lee, 2017). While related estimators such as unbiased KernelSHAP (Covert & Lee, 2021) and LeverageSHAP (Musco & Witter, 2025) are known to satisfy theoretical guarantees, bounds for KernelSHAP have remained elusive. We describe a broad and unified framework that encompasses KernelSHAP and related estimators constructed using both with and without replacement sampling strategies. We then prove strong non-asymptotic theoretical guarantees that apply to all estimators from our framework. This provides, to the best of our knowledge, the first theoretical guarantees for KernelSHAP and sheds further light on tradeoffs between existing estimators. Through comprehensive benchmarking on small and medium dimensional datasets for Decision-Tree models, we validate our approach against exact Shapley values, consistently achieving low mean squared error with modest sample sizes. Furthermore, we make specific implementation improvements to enable scalability of our methods to high-dimensional datasets. Our methods, tested on datasets such MNIST and CIFAR10, provide consistently better results compared to the KernelSHAP library.
   </details>
@@ -78,6 +84,7 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   Rajarshi Bhattacharjee, Rajesh Jayaram, Cameron Musco, Christopher Musco, Archan Ray
   <br>
   ACM-SIAM Symposium on Discrete Algorithms (SODA) 2025.
+  <br>
   <details><summary> Abstract | <a href="https://github.com/archanray/SDE_SLQ.git"> Code </a></summary>
   We study algorithms for approximating the spectral density (i.e., the eigenvalue distribution) of a symmetric matrix $\mathbf A \in \mathbb{R}^{n \times n}$ that is accessed through matrix-vector product queries. Recent work has analyzed popular Krylov subspace methods for this problem, showing that they output an $\epsilon \cdot \|\mathbf A\|_2$ error approximation to the spectral density in the Wasserstein-$1$ metric using $O(1/\epsilon)$ matrix-vector products. By combining a previously studied Chebyshev polynomial moment matching method with a <i>deflation</i> step that approximately projects off the largest magnitude eigendirections of $\mathbf A$ before estimating the spectral density, we give an improved error bound of $\epsilon \cdot \sigma_{\ell}(\mathbf A)$ using $O(\ell \log n+ 1/\epsilon)$ matrix-vector products, where $\sigma_\ell(\mathbf A)$ is the $\ell^{th}$ largest singular value of $\mathbf A$. In the common case when $\mathbf A$ exhibits fast singular value decay and so $\sigma_\ell(\mathbf A) \ll \|\mathbf A\|_2$, our bound can be much stronger than prior work. We also show that it is nearly tight: any algorithm giving error $\epsilon \cdot \sigma_\ell(\mathbf A)$ must use $\Omega(\ell+1/\epsilon)$ matrix-vector products. <br> 
     
@@ -88,7 +95,8 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, Sushant Sachdeva, David P Woodruff
   <br>
-  Innovations in Theoretical Computer Science (ITCS) 2024.<br>
+  Innovations in Theoretical Computer Science (ITCS) 2024.
+  <br>
   <details><summary> Abstract | <a href="https://www.youtube.com/watch?v=tvC38VBKLVY"> Video </a> from Rajarshi's talk at ITCS. </summary> 
   Given a matrix $\mathbf A \in \mathbb{R}^{n \times n}$ which is normalized so that its entries are bounded in magnitude by $1$, it is well-known that if $S \subset [n] \times [n]$ is a uniformly random subset of $s= \tilde{O}(n/\epsilon^2)$ entries of $\mathbf A$, and if ${\mathbf A}_S$ equals $\mathbf A$ on the entries in $S$ and is zero on the entries outside of $S$, then $\|\mathbf A - \frac{n^2}{s} \cdot {\mathbf A}_S\|_2 \le \epsilon n$ with high probability, where $\|\cdot\|_2$ is the spectral norm. We show that for positive semidefinite (PSD) matrices, no randomness is needed at all in this statement. Namely, there exists a <i>fixed subset</i> $S$ of $s = \tilde{O}(n/\epsilon^2)$ entries that acts as a <i>universal sparsifier</i>: $\|\mathbf A - \frac{n^2}{s} \cdot {\mathbf A}_S\|_2 \le \epsilon n$ holds <i>simultaneously for every bounded entry PSD matrix $\mathbf A \in \mathbb{R}^{n \times n}$</i>. One can view this result as a significant extension of a spectral expander. Indeed,  if we set $\mathbf A$ to be the all ones matrix, then ${\mathbf A}_S$ matches the near-optimal spectral expansion of Ramanujan graphs, up to logarithmic factors. But here our ${\mathbf A}_S$ sparsifies any bounded entry PSD matrix, not just the all ones matrix. We leverage the existence of such universal sparsifiers to give the first <i>deterministic algorithms</i> for several central linear algebraic problems, including singular value and singular vector approximation and positive semidefiniteness testing, that run in faster than matrix multiplication time. This partially addresses a significant gap between randomized and deterministic algorithms for fast linear algebraic computation.<br>
 
@@ -100,7 +108,8 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, Archan Ray
   <br>
-  extended abstract in International Colloquium on Automata, Languages, and Programming (ICALP) 2023, full paper in Algorithmica. <br>
+  extended abstract in International Colloquium on Automata, Languages, and Programming (ICALP) 2023, full paper in Algorithmica 2024.
+  <br>
   <details><summary> Abstract | <a href="https://github.com/archanray/eigenvalue_estimation"> Code </a> | <a href="https://people.cs.umass.edu/~cmusco/personal_site/pdfs/sublinearEigenvaluesTalk.pdf"> Slides </a>from Cameron's talk at the Algorithms and Foundations for Data Science Workshop, NUS.</summary>
   We study the problem of approximating the eigenspectrum of a symmetric matrix $\mathbf{A} \in \mathbb{R}^{n \times n}$ with bounded entries (i.e., $\|\mathbf{A}\|_{\infty} \leq 1$). We present a simple sublinear time algorithm that approximates all eigenvalues of $\mathbf{A}$ up to additive error $\pm \epsilon n$ using those of a randomly sampled ${O}\left (\frac{\log^3 n}{\epsilon^3}\right ) \times O\left (\frac{\log^3 n}{\epsilon^3}\right )$ principal submatrix. Our result can be viewed as a concentration bound on the \textit{full} eigenspectrum of a random submatrix, significantly extending known bounds on just the top eigenvalue (the spectral norm). When $\mathbf{A}$ is sparse and rows of $\mathbf{A}$ can be efficiently sampled with probabilities proportional to their sparsity, we present an improved error bound of $\pm \epsilon \sqrt{\text{nnz}(\mathbf{A})}$, where $\text{nnz}(\mathbf{A})$ is the number of non-zero entries in $\mathbf{A}$. Even for the strictly easier problem of testing the existence of large negative eigenvalues, introduced by Bakshi, Chepurko, and Jayaram (FOCS '20), our results are the first ones that can take advantage of the sparsity of $\mathbf{A}$. From a technical perspective, our bounds require several new eigenvalue concentration and perturbation bounds for matrices with bounded entries. We complement our theoretical results with numerical simulations, which demonstrate the effectiveness of our algorithms in practice.
   </details>
@@ -109,7 +118,8 @@ Prior to this I have dabbled unsuccessfully in computer vision, where I was work
   <br>
   Archan Ray, Nicholas Monath, Andrew McCallum, and Cameron Musco
   <br>
-  AAAI Conference on Artificial Intelligence (AAAI) 2022. <br>
+  AAAI Conference on Artificial Intelligence (AAAI) 2022.
+  <br>
   <details><summary> Abstract | <a href="https://github.com/archanray/approximate_similarities"> Code </a></summary>
   We study algorithms for approximating pairwise similarity matrices that arise in natural language processing. Generally, computing a similarity matrix for $n$ data points requires $\Omega(n^2)$ similarity computations.
 This quadratic scaling is a significant bottleneck, especially when similarities are computed via expensive functions, e.g., via transformer models.  Approximation methods reduce this quadratic complexity, often by using a small subset of exactly computed similarities to approximate the remainder of the complete pairwise similarity matrix.<br>
@@ -124,7 +134,8 @@ This quadratic scaling is a significant bottleneck, especially when similarities
   <br>
   Archan Ray, Aruni Roy Chowdhury, Yi Fung, Jerod Weinman, and Erik Learned-Miller
   <br>
-  Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019.<br>
+  Technical Report, College of Information and Computer Sciences, University of Massachusetts, Amherst, MA, 2019.
+  <br>
   <details><summary> Abstract </summary>
   Text recognition in maps is a special case of general text recognition that features some especially difficult challenges, including texts at extreme orientations, wide character spacings, complex text-like distractors, and unusual non-dictionary strings. Off-the-shelf OCR systems, and even sophisticated scene text recognition systems do not work satisfactorily on many map-text recognition problems. While many OCR and scene text systems have produced high quality results by considering detection, recognition, and error-correction as separate components, we believe that map text recognition can benefit immensely from the <b>tight coupling</b> of different components of an overall system. In particular, we present an end-to-end system for recognizing text in maps that uses strong coupling in two different ways. In the first, we train individual <b>character</b> detectors, and use these detections as inputs in a new <b>word detection CNN architecture</b> to improve word detection. We show dramatic increases in word detection accuracy for a strong baseline detection architecture. In the second contribution, we use a geographically-based lexicon to constrain our interpretations of initial detections. If the lexicon suggests that the word detection is either too short, we ""re-prime'' the word detector by inserting expected characters locations back into the word detector using a novel input mechanism. We then rerun the word detector using the additional character suggestions, giving a solid improvement in accuracy. We report end-to-end recognition results on a public map-text recognition benchmark.
   </details>
@@ -134,6 +145,7 @@ This quadratic scaling is a significant bottleneck, especially when similarities
   Archan Ray, Ziwen Chen, Ben Gafford, Nathan Gifford, Jagath Jai Kumar, Abyaya Lamsal, Liam Niehus-Staab, Jerod Weinman, and Erik Learned-Miller
   <br>
   Grinnell College, Technical Report, 2018.
+  <br>
   <details><summary> Introduction </summary>
   This document describes a data set designed for testing the performance of text/graphics separation and
 character recognition algorithms on text in scanned historical map images. Thirty one maps from the
@@ -147,7 +159,8 @@ uncompressed TIFF images. The images and annotations are available from the foll
   <br>
   Archan Ray, Nishant Kumar, Avishek Shaw, and Dipti Prasad Mukherjee
   <br>
-  European Conference on Computer Vision (ECCV), 2018.<br>
+  European Conference on Computer Vision (ECCV) 2018.
+  <br>
   <details><summary> Abstract </summary>
   We present an end-to-end solution for recognizing merchandise displayed in the shelves of a supermarket. Given images of individual products, which are taken under ideal illumination for product marketing, the challenge is to find these products automatically in the images of the shelves. Note that the images of shelves are taken using hand-held camera under store level illumination. We provide a two-layer hypotheses generation and verification model. In the first layer, the model predicts a set of candidate merchandise at a specific location of the shelf while in the second layer, the hypothesis is verified by a novel graph theoretic approach. The performance of the proposed approach on two publicly available datasets is better than the competing approaches by at least 10%.
   </details>
