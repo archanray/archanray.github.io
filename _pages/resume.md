@@ -123,7 +123,12 @@ Link to my updated [resume](docs/Archan_Ray_Resume.pdf), [CV](docs/Archan_Ray_fu
 * I have served as a steward for the [Graduate Employee Organisation](https://www.geouaw.org/) between Fall 2017-Fall 2018.
 * I also mentored/worked with masters students in Fall 2018.
 * I have served as a reviewer for the following:
+  * FOCS 2026 (sub-reviewer)
+  * BIT Numerical Mathematics
+  * ICLR 2026
+  * NeurIPS 2025-*present*
+  * AAAI 2025
   * AISTATS 2024
   * IEEE Transactions on Image Processing
   * NeurIPS 2019 Workshop Sets & Partitions
-  * Indian Conference on Computer Vision, Graphics and Image Processing
+  * Indian Conference on Computer Vision, Graphics and Image Processing 2015-2018
