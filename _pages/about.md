@@ -19,9 +19,9 @@ In my leisure I enjoy playing guitar, badminton and [birding](https://www.instag
 
 * (June 2026) Our paper, *Adaptive and Robust Watermark for Generative Tabular Data* was accepted for publication at [UAI 2026](https://www.auai.org/uai2026/).
 * (May 2026) Our paper, *MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning* was accepted for publication at [TMLR 2026](https://jmlr.org/tmlr/).
-* (May 2026) Presented our work, *GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches* at [PDSEC 2026](https://www.ieee-tcsc.org/2026/pdsec/)
-* (April 2026) Our paper, *GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches* won the best paper award at [PDSEC 2026](https://www.ieee-tcsc.org/2026/pdsec/)
-* (September 2025) Our paper, *A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values* was accepted for publication at [Neurips 2025](https://neurips.cc/)
+* (May 2026) Presented our work, *GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches* at [PDSEC 2026](https://www.ieee-tcsc.org/2026/pdsec/).
+* (April 2026) Our paper, *GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches* won the best paper award at [PDSEC 2026](https://www.ieee-tcsc.org/2026/pdsec/).
+* (September 2025) Our paper, *A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values* was accepted for publication at [Neurips 2025](https://neurips.cc/).
 * (October 2024) Our paper, *Improved Spectral Density Estimation via Explicit and Implicit Deflation* was accepted for publication at [SODA 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/).
 * (January 2024) Our extended paper, *Sublinear Time Eigenvalue Approximation via Random Sampling* was accepted for publication at Algorithmica 2024.
 * (November 2023) Our paper, *Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra* was accepted at [ITCS 2024](https://itcs-conf.org/itcs24/itcs24-cfp.html).
