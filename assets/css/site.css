@@ -437,3 +437,13 @@ pre { overflow-x: auto; background: var(--code); border: 1px solid var(--line); 
 :root.dark .credential-card img[src*="isikol"] {
   filter: invert(1) brightness(0.9);
 }
+.worldcup-page {
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)),
+    url("../img/background/WC26-bg.png") center top / cover fixed no-repeat;
+}
+:root.dark .worldcup-page {
+  background:
+    linear-gradient(rgba(17, 20, 22, 0.90), rgba(17, 20, 22, 0.90)),
+    url("../img/background/WC26-bg.png") center top / cover fixed no-repeat;
+}
