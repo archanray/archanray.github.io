@@ -509,7 +509,7 @@
   }
 
   function renderKnockout(standings, thirdAssignments, outcomes) {
-    return `<section class="wc-section"><div class="wc-section-head"><h2>Knockout stage</h2><p>Enter knockout goals in <code>knockoutScores</code>. If a match is tied, set <code>winner</code> to the team code.</p></div><div class="wc-bracket">${knockoutRounds.map(round => `<section class="ko-round"><h3>${esc(round.title)}</h3>${round.matches.map(match => renderKnockoutMatch(match, standings, thirdAssignments, outcomes)).join("")}</section>`).join("")}</div></section>`;
+    return `<section class="wc-section"><div class="wc-section-head"><h2>Knockout stage</h2></div><div class="wc-bracket">${knockoutRounds.map(round => `<section class="ko-round"><h3>${esc(round.title)}</h3>${round.matches.map(match => renderKnockoutMatch(match, standings, thirdAssignments, outcomes)).join("")}</section>`).join("")}</div></section>`;
   }
 
   function renderKnockoutMatch(match, standings, thirdAssignments, outcomes) {
