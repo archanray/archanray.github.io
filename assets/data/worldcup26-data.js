@@ -102,7 +102,7 @@ window.WORLD_CUP_STATE = {
         "id": "C1",
         "a": "BRA",
         "b": "MAR",
-        "ga": 0,
+        "ga": 1,
         "gb": 1
       },
       {
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-13T22:26:24.947Z",
+    "updatedAt": "2026-06-13T22:36:21.463Z",
     "matchesSeen": 0
   }
 };
