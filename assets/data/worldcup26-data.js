@@ -147,7 +147,7 @@ window.WORLD_CUP_STATE = {
         "a": "USA",
         "b": "PAR",
         "ga": 3,
-        "gb": 0
+        "gb": 1
       },
       {
         "id": "D2",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-13T01:58:03.943Z",
+    "updatedAt": "2026-06-13T02:51:59.912Z",
     "matchesSeen": 0
   }
 };
