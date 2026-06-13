@@ -65,8 +65,8 @@ window.WORLD_CUP_STATE = {
         "id": "B2",
         "a": "QAT",
         "b": "SUI",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 1
       },
       {
         "id": "B3",
@@ -102,8 +102,8 @@ window.WORLD_CUP_STATE = {
         "id": "C1",
         "a": "BRA",
         "b": "MAR",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 1
       },
       {
         "id": "C2",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-13T03:03:15.249Z",
+    "updatedAt": "2026-06-13T22:26:24.947Z",
     "matchesSeen": 0
   }
 };
