@@ -381,7 +381,7 @@ pre { overflow-x: auto; background: var(--code); border: 1px solid var(--line); 
 /* Resume credential cards */
 .credential-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
   gap: 1.35rem 1.6rem;
   align-items: start;
   margin-top: 1rem;
