@@ -109,8 +109,8 @@ window.WORLD_CUP_STATE = {
         "id": "C2",
         "a": "HAI",
         "b": "SCO",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 1
       },
       {
         "id": "C3",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-13T22:36:21.463Z",
+    "updatedAt": "2026-06-14T01:42:50.695Z",
     "matchesSeen": 0
   }
 };
