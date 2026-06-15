@@ -322,8 +322,8 @@ window.WORLD_CUP_STATE = {
         "id": "H1",
         "a": "ESP",
         "b": "CPV",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 0
       },
       {
         "id": "H2",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-15T03:56:22.923Z",
+    "updatedAt": "2026-06-15T17:58:24.704Z",
     "matchesSeen": 0
   }
 };
