@@ -190,15 +190,15 @@ window.WORLD_CUP_STATE = {
         "id": "E1",
         "a": "GER",
         "b": "CUW",
-        "ga": null,
-        "gb": null
+        "ga": 5,
+        "gb": 1
       },
       {
         "id": "E2",
         "a": "CIV",
         "b": "ECU",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 0
       },
       {
         "id": "E3",
@@ -234,8 +234,8 @@ window.WORLD_CUP_STATE = {
         "id": "F1",
         "a": "NED",
         "b": "JPN",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 2
       },
       {
         "id": "F2",
