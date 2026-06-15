@@ -197,7 +197,7 @@ window.WORLD_CUP_STATE = {
         "id": "E2",
         "a": "CIV",
         "b": "ECU",
-        "ga": 0,
+        "ga": 1,
         "gb": 0
       },
       {
