@@ -278,7 +278,7 @@ window.WORLD_CUP_STATE = {
         "id": "G1",
         "a": "BEL",
         "b": "EGY",
-        "ga": 0,
+        "ga": 1,
         "gb": 1
       },
       {
