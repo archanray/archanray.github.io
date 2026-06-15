@@ -278,8 +278,8 @@ window.WORLD_CUP_STATE = {
         "id": "G1",
         "a": "BEL",
         "b": "EGY",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 1
       },
       {
         "id": "G2",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-15T17:58:24.704Z",
+    "updatedAt": "2026-06-15T19:21:32.920Z",
     "matchesSeen": 0
   }
 };
