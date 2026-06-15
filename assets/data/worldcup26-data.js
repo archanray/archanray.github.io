@@ -241,8 +241,8 @@ window.WORLD_CUP_STATE = {
         "id": "F2",
         "a": "SWE",
         "b": "TUN",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 1
       },
       {
         "id": "F3",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-14T01:42:50.695Z",
+    "updatedAt": "2026-06-15T03:43:51.238Z",
     "matchesSeen": 0
   }
 };
