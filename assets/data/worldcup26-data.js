@@ -410,7 +410,7 @@ window.WORLD_CUP_STATE = {
         "id": "J1",
         "a": "ARG",
         "b": "ALG",
-        "ga": 1,
+        "ga": 2,
         "gb": 0
       },
       {
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-17T00:13:58.614Z",
+    "updatedAt": "2026-06-17T02:27:05.681Z",
     "matchesSeen": 0
   }
 };
