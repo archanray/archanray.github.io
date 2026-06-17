@@ -417,8 +417,8 @@ window.WORLD_CUP_STATE = {
         "id": "J2",
         "a": "AUT",
         "b": "JOR",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 1
       },
       {
         "id": "J3",
