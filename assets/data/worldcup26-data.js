@@ -374,7 +374,7 @@ window.WORLD_CUP_STATE = {
         "a": "IRQ",
         "b": "NOR",
         "ga": 1,
-        "gb": 2
+        "gb": 4
       },
       {
         "id": "I3",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-16T04:01:04.053Z",
+    "updatedAt": "2026-06-17T00:13:58.614Z",
     "matchesSeen": 0
   }
 };
