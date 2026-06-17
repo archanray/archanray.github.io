@@ -410,8 +410,8 @@ window.WORLD_CUP_STATE = {
         "id": "J1",
         "a": "ARG",
         "b": "ALG",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       },
       {
         "id": "J2",
