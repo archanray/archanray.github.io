@@ -505,8 +505,8 @@ window.WORLD_CUP_STATE = {
         "id": "L2",
         "a": "GHA",
         "b": "PAN",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       },
       {
         "id": "L3",
