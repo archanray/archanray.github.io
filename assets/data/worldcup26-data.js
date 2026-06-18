@@ -79,8 +79,8 @@ window.WORLD_CUP_STATE = {
         "id": "B4",
         "a": "CAN",
         "b": "QAT",
-        "ga": null,
-        "gb": null
+        "ga": 5,
+        "gb": 0
       },
       {
         "id": "B5",
