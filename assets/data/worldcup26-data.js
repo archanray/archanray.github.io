@@ -461,8 +461,8 @@ window.WORLD_CUP_STATE = {
         "id": "K2",
         "a": "UZB",
         "b": "COL",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 1
       },
       {
         "id": "K3",
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-17T02:41:45.804Z",
+    "updatedAt": "2026-06-18T02:41:23.764Z",
     "matchesSeen": 0
   }
 };
