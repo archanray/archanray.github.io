@@ -26,15 +26,15 @@ window.WORLD_CUP_STATE = {
       },
       {
         "id": "A3",
-        "a": "MEX",
-        "b": "KOR",
-        "ga": null,
-        "gb": null
+        "a": "RSA",
+        "b": "CZE",
+        "ga": 0,
+        "gb": 0
       },
       {
         "id": "A4",
-        "a": "RSA",
-        "b": "CZE",
+        "a": "MEX",
+        "b": "KOR",
         "ga": null,
         "gb": null
       },
