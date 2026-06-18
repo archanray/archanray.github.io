@@ -70,15 +70,15 @@ window.WORLD_CUP_STATE = {
       },
       {
         "id": "B3",
-        "a": "CAN",
-        "b": "QAT",
-        "ga": null,
-        "gb": null
+        "a": "BIH",
+        "b": "SUI",
+        "ga": 1,
+        "gb": 4
       },
       {
         "id": "B4",
-        "a": "BIH",
-        "b": "SUI",
+        "a": "CAN",
+        "b": "QAT",
         "ga": null,
         "gb": null
       },
