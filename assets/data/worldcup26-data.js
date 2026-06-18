@@ -28,7 +28,7 @@ window.WORLD_CUP_STATE = {
         "id": "A3",
         "a": "RSA",
         "b": "CZE",
-        "ga": 0,
+        "ga": 1,
         "gb": 1
       },
       {
