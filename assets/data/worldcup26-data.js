@@ -461,8 +461,8 @@ window.WORLD_CUP_STATE = {
         "id": "K2",
         "a": "UZB",
         "b": "COL",
-        "ga": 0,
-        "gb": 1
+        "ga": 1,
+        "gb": 3
       },
       {
         "id": "K3",
