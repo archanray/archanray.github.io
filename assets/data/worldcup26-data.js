@@ -35,8 +35,8 @@ window.WORLD_CUP_STATE = {
         "id": "A4",
         "a": "MEX",
         "b": "KOR",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       },
       {
         "id": "A5",
