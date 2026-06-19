@@ -160,8 +160,8 @@ window.WORLD_CUP_STATE = {
         "id": "D3",
         "a": "USA",
         "b": "AUS",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       },
       {
         "id": "D4",
