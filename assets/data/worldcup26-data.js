@@ -114,17 +114,17 @@ window.WORLD_CUP_STATE = {
       },
       {
         "id": "C3",
-        "a": "BRA",
-        "b": "HAI",
-        "ga": null,
-        "gb": null
+        "a": "MAR",
+        "b": "SCO",
+        "ga": 1,
+        "gb": 0
       },
       {
         "id": "C4",
-        "a": "MAR",
-        "b": "SCO",
-        "ga": null,
-        "gb": null
+        "a": "BRA",
+        "b": "HAI",
+        "ga": 3,
+        "gb": 0
       },
       {
         "id": "C5",
