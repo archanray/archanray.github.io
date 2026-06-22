@@ -299,8 +299,8 @@ window.WORLD_CUP_STATE = {
         "id": "G4",
         "a": "EGY",
         "b": "NZL",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 1
       },
       {
         "id": "G5",
