@@ -380,15 +380,15 @@ window.WORLD_CUP_STATE = {
         "id": "I3",
         "a": "FRA",
         "b": "IRQ",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 0
       },
       {
         "id": "I4",
         "a": "SEN",
         "b": "NOR",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 3
       },
       {
         "id": "I5",
@@ -424,15 +424,15 @@ window.WORLD_CUP_STATE = {
         "id": "J3",
         "a": "ARG",
         "b": "AUT",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 0
       },
       {
         "id": "J4",
         "a": "ALG",
         "b": "JOR",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 1
       },
       {
         "id": "J5",
@@ -468,15 +468,15 @@ window.WORLD_CUP_STATE = {
         "id": "K3",
         "a": "POR",
         "b": "UZB",
-        "ga": null,
-        "gb": null
+        "ga": 5,
+        "gb": 0
       },
       {
         "id": "K4",
         "a": "COD",
         "b": "COL",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 1
       },
       {
         "id": "K5",
@@ -512,15 +512,15 @@ window.WORLD_CUP_STATE = {
         "id": "L3",
         "a": "ENG",
         "b": "GHA",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 0
       },
       {
         "id": "L4",
         "a": "CRO",
         "b": "PAN",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       },
       {
         "id": "L5",
