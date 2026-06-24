@@ -86,15 +86,15 @@ window.WORLD_CUP_STATE = {
         "id": "B5",
         "a": "CAN",
         "b": "SUI",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 2
       },
       {
         "id": "B6",
         "a": "BIH",
         "b": "QAT",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 1
       }
     ],
     "C": [
@@ -130,15 +130,15 @@ window.WORLD_CUP_STATE = {
         "id": "C5",
         "a": "BRA",
         "b": "SCO",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 0
       },
       {
         "id": "C6",
         "a": "MAR",
         "b": "HAI",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 2
       }
     ],
     "D": [
