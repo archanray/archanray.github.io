@@ -218,15 +218,15 @@ window.WORLD_CUP_STATE = {
         "id": "E5",
         "a": "GER",
         "b": "ECU",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 2
       },
       {
         "id": "E6",
         "a": "CUW",
         "b": "CIV",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 2
       }
     ],
     "F": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-18T02:41:23.764Z",
+    "updatedAt": "2026-06-25T21:40:43.138Z",
     "matchesSeen": 0
   }
 };
