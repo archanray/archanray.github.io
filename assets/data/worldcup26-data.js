@@ -130,14 +130,14 @@ window.WORLD_CUP_STATE = {
         "id": "C5",
         "a": "BRA",
         "b": "SCO",
-        "ga": 2,
+        "ga": 3,
         "gb": 0
       },
       {
         "id": "C6",
         "a": "MAR",
         "b": "HAI",
-        "ga": 2,
+        "ga": 4,
         "gb": 2
       }
     ],
