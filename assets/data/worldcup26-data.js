@@ -394,15 +394,15 @@ window.WORLD_CUP_STATE = {
         "id": "I5",
         "a": "FRA",
         "b": "NOR",
-        "ga": null,
-        "gb": null
+        "ga": 4,
+        "gb": 1
       },
       {
         "id": "I6",
         "a": "SEN",
         "b": "IRQ",
-        "ga": null,
-        "gb": null
+        "ga": 5,
+        "gb": 0
       }
     ],
     "J": [
