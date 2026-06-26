@@ -262,15 +262,15 @@ window.WORLD_CUP_STATE = {
         "id": "F5",
         "a": "NED",
         "b": "TUN",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 1
       },
       {
         "id": "F6",
         "a": "JPN",
         "b": "SWE",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 1
       }
     ],
     "G": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-25T21:40:43.138Z",
+    "updatedAt": "2026-06-26T00:59:30.026Z",
     "matchesSeen": 0
   }
 };
