@@ -174,15 +174,15 @@ window.WORLD_CUP_STATE = {
         "id": "D5",
         "a": "USA",
         "b": "TUR",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 2
       },
       {
         "id": "D6",
         "a": "PAR",
         "b": "AUS",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 0
       }
     ],
     "E": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-26T00:59:30.026Z",
+    "updatedAt": "2026-06-26T03:57:05.895Z",
     "matchesSeen": 0
   }
 };
