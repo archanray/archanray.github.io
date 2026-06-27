@@ -314,7 +314,7 @@ window.WORLD_CUP_STATE = {
         "a": "EGY",
         "b": "IRN",
         "ga": 1,
-        "gb": 0
+        "gb": 1
       }
     ],
     "H": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-27T03:06:21.195Z",
+    "updatedAt": "2026-06-27T03:14:35.331Z",
     "matchesSeen": 0
   }
 };
