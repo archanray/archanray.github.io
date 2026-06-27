@@ -306,15 +306,15 @@ window.WORLD_CUP_STATE = {
         "id": "G5",
         "a": "BEL",
         "b": "NZL",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 0
       },
       {
         "id": "G6",
         "a": "EGY",
         "b": "IRN",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       }
     ],
     "H": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-27T02:02:36.271Z",
+    "updatedAt": "2026-06-27T03:06:21.195Z",
     "matchesSeen": 0
   }
 };
