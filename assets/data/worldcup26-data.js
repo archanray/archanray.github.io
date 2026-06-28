@@ -482,15 +482,15 @@ window.WORLD_CUP_STATE = {
         "id": "K5",
         "a": "POR",
         "b": "COL",
-        "ga": null,
-        "gb": null
+        "ga": 0,
+        "gb": 0
       },
       {
         "id": "K6",
         "a": "COD",
         "b": "UZB",
-        "ga": null,
-        "gb": null
+        "ga": 3,
+        "gb": 1
       }
     ],
     "L": [
@@ -526,15 +526,15 @@ window.WORLD_CUP_STATE = {
         "id": "L5",
         "a": "ENG",
         "b": "PAN",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 0
       },
       {
         "id": "L6",
         "a": "CRO",
         "b": "GHA",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 1
       }
     ]
   },
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-27T03:14:35.331Z",
+    "updatedAt": "2026-06-28T01:46:59.125Z",
     "matchesSeen": 0
   }
 };
