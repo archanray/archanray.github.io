@@ -446,7 +446,7 @@ window.WORLD_CUP_STATE = {
         "a": "ALG",
         "b": "AUT",
         "ga": 1,
-        "gb": 0
+        "gb": 1
       }
     ],
     "K": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-28T02:45:18.791Z",
+    "updatedAt": "2026-06-28T02:46:01.439Z",
     "matchesSeen": 0
   }
 };
