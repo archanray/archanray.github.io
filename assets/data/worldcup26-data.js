@@ -550,9 +550,9 @@ window.WORLD_CUP_STATE = {
   },
   "knockoutScores": {
     "73": {
-      "a": null,
-      "b": null,
-      "winner": null
+      "a": 1,
+      "b": 0,
+      "winner": "CAN"
     },
     "74": {
       "a": null,
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-28T02:46:01.439Z",
+    "updatedAt": "2026-06-28T21:09:48.176Z",
     "matchesSeen": 0
   }
 };
