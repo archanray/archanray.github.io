@@ -438,15 +438,15 @@ window.WORLD_CUP_STATE = {
         "id": "J5",
         "a": "ARG",
         "b": "JOR",
-        "ga": null,
-        "gb": null
+        "ga": 2,
+        "gb": 0
       },
       {
         "id": "J6",
         "a": "ALG",
         "b": "AUT",
-        "ga": null,
-        "gb": null
+        "ga": 1,
+        "gb": 0
       }
     ],
     "K": [
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-28T01:46:59.125Z",
+    "updatedAt": "2026-06-28T02:45:18.791Z",
     "matchesSeen": 0
   }
 };
