@@ -565,8 +565,8 @@ window.WORLD_CUP_STATE = {
       "winner": null
     },
     "76": {
-      "a": null,
-      "b": null,
+      "a": 1,
+      "b": 0,
       "winner": null
     },
     "77": {
@@ -712,7 +712,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-28T21:10:38.600Z",
+    "updatedAt": "2026-06-29T19:04:29.439Z",
     "matchesSeen": 0
   }
 };
