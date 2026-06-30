@@ -2,10 +2,12 @@
 // Edit group-stage and knockout scores here, then refresh worldcup26.html.
 // Scores may be null/"" for unplayed games or nonnegative integers for played games.
 // For tied knockout games, set winner to the winning team code, e.g. { a: 1, b: 1, winner: "ARG" }.
+// For penalty shootouts, use pa/pb, e.g. { a: 1, b: 1, pa: 3, pb: 4, winner: "PAR" }.
 // Optional helpers:
 //   npm run validate:worldcup26
 //   npm run score -- group A1 2 1
 //   npm run score -- knockout 104 1 1 ARG
+//   npm run score -- knockout 74 1 1 PAR 3 4
 
 window.WORLD_CUP_STATE = {
   "groupMatches": {
@@ -557,12 +559,16 @@ window.WORLD_CUP_STATE = {
     "74": {
       "a": 1,
       "b": 1,
-      "winner": PAR
+      "pa": 3,
+      "pb": 4,
+      "winner": "PAR"
     },
     "75": {
       "a": 1,
       "b": 1,
-      "winner": MAR
+      "pa": 2,
+      "pb": 3,
+      "winner": "MAR"
     },
     "76": {
       "a": 1,
@@ -712,7 +718,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-29T19:04:29.439Z",
+    "updatedAt": "2026-06-30T04:22:47.329Z",
     "matchesSeen": 0
   }
 };

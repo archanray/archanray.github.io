@@ -194,9 +194,14 @@
     }[char]));
   }
 
-  function scoreBox(value, label) {
+  function scoreBox(value, label, pens = null) {
     const n = toInt(value);
-    const text = n === null ? "–" : String(n);
+    const p = toInt(pens);
+
+    let text = "–";
+    if (n !== null && p !== null) text = `${n} (${p})`;
+    else if (n !== null) text = String(n);
+
     return `<span class="wc-score-box" aria-label="${esc(label)}">${esc(text)}</span>`;
   }
 
@@ -388,10 +393,28 @@
         const bScore = toInt(score.b);
         let winner = null;
         let loser = null;
+        // if (pair.a && pair.b && aScore !== null && bScore !== null) {
+        //   if (aScore > bScore) { winner = pair.a; loser = pair.b; }
+        //   else if (bScore > aScore) { winner = pair.b; loser = pair.a; }
+        //   else if (score.winner === pair.a || score.winner === pair.b) {
+        //     winner = score.winner;
+        //     loser = score.winner === pair.a ? pair.b : pair.a;
+        //   }
+        // }
         if (pair.a && pair.b && aScore !== null && bScore !== null) {
-          if (aScore > bScore) { winner = pair.a; loser = pair.b; }
-          else if (bScore > aScore) { winner = pair.b; loser = pair.a; }
-          else if (score.winner === pair.a || score.winner === pair.b) {
+          const aPens = toInt(score.pa);
+          const bPens = toInt(score.pb);
+
+          if (aScore > bScore) {
+            winner = pair.a;
+            loser = pair.b;
+          } else if (bScore > aScore) {
+            winner = pair.b;
+            loser = pair.a;
+          } else if (aPens !== null && bPens !== null && aPens !== bPens) {
+            winner = aPens > bPens ? pair.a : pair.b;
+            loser = winner === pair.a ? pair.b : pair.a;
+          } else if (score.winner === pair.a || score.winner === pair.b) {
             winner = score.winner;
             loser = score.winner === pair.a ? pair.b : pair.a;
           }
@@ -521,8 +544,8 @@
     return `<article class="ko-match">
       <div class="ko-label"><strong>${esc(match.label)}</strong><span>${slotLabel(match.a)} vs ${slotLabel(match.b)}</span></div>
       ${thirdOverride(match, thirdAssignments)}
-      <div class="ko-team-row ${aWinner}">${teamPill(pair.a, "compact")}${scoreBox(score.a, `${match.label} first team goals`)}</div>
-      <div class="ko-team-row ${bWinner}">${teamPill(pair.b, "compact")}${scoreBox(score.b, `${match.label} second team goals`)}</div>
+      <div class="ko-team-row ${aWinner}">${teamPill(pair.a, "compact")}${scoreBox(score.a, `${match.label} first team goals`, score.pa)}</div>
+      <div class="ko-team-row ${bWinner}">${teamPill(pair.b, "compact")}${scoreBox(score.b, `${match.label} second team goals`, score.pb)}</div>
       ${winnerSelect(match, pair)}
     </article>`;
   }
