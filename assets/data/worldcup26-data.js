@@ -571,8 +571,8 @@ window.WORLD_CUP_STATE = {
       "winner": "MAR"
     },
     "76": {
-      "a": 1,
-      "b": 0,
+      "a": 2,
+      "b": 1,
       "winner": null
     },
     "77": {
@@ -718,7 +718,7 @@ window.WORLD_CUP_STATE = {
   },
   "meta": {
     "source": "manual data file",
-    "updatedAt": "2026-06-30T04:22:47.329Z",
+    "updatedAt": "2026-06-30T13:32:49.249Z",
     "matchesSeen": 0
   }
 };
