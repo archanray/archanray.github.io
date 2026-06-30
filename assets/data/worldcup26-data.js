@@ -555,14 +555,14 @@ window.WORLD_CUP_STATE = {
       "winner": null
     },
     "74": {
-      "a": null,
-      "b": null,
-      "winner": null
+      "a": 1(3),
+      "b": 1(4),
+      "winner": PAR
     },
     "75": {
-      "a": null,
-      "b": null,
-      "winner": null
+      "a": 1(2),
+      "b": 1(3),
+      "winner": MAR
     },
     "76": {
       "a": 1,
