@@ -576,8 +576,8 @@ window.WORLD_CUP_STATE = {
       "winner": null
     },
     "77": {
-      "a": null,
-      "b": null,
+      "a": 3,
+      "b": 0,
       "winner": null
     },
     "78": {
