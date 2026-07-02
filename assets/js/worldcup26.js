@@ -88,10 +88,10 @@
     { id: "79", label: "M79", a: { type: "group", pos: 1, group: "A" }, b: { type: "third", groups: ["C", "E", "F", "H", "I"] } },
     { id: "80", label: "M80", a: { type: "group", pos: 1, group: "L" }, b: { type: "third", groups: ["E", "H", "I", "J", "K"] } },
     { id: "81", label: "M81", a: { type: "group", pos: 1, group: "D" }, b: { type: "third", groups: ["B", "E", "F", "I", "J"] } },
-    { id: "82", label: "M82", a: { type: "group", pos: 1, group: "G" }, b: { type: "third", groups: ["A", "E", "H", "I", "J"] } },
+    { id: "82", label: "M82", a: { type: "group", pos: 1, group: "G" }, b: { type: "third", groups: ["E", "F", "G", "I", "J"] } },
     { id: "83", label: "M83", a: { type: "group", pos: 2, group: "K" }, b: { type: "group", pos: 2, group: "L" } },
     { id: "84", label: "M84", a: { type: "group", pos: 1, group: "H" }, b: { type: "group", pos: 2, group: "J" } },
-    { id: "85", label: "M85", a: { type: "group", pos: 1, group: "B" }, b: { type: "third", groups: ["E", "F", "G", "I", "J"] } },
+    { id: "85", label: "M85", a: { type: "group", pos: 1, group: "B" }, b: { type: "third", groups: ["A", "E", "H", "I", "J"] } },
     { id: "86", label: "M86", a: { type: "group", pos: 1, group: "J" }, b: { type: "group", pos: 2, group: "H" } },
     { id: "87", label: "M87", a: { type: "group", pos: 1, group: "K" }, b: { type: "third", groups: ["D", "E", "I", "J", "L"] } },
     { id: "88", label: "M88", a: { type: "group", pos: 2, group: "D" }, b: { type: "group", pos: 2, group: "G" } }
