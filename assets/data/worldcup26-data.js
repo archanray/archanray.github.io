@@ -616,13 +616,13 @@ window.WORLD_CUP_STATE = {
       "winner": null
     },
     "85": {
-      "a": null,
-      "b": null,
+      "a": 2,
+      "b": 0,
       "winner": null
     },
     "86": {
-      "a": null,
-      "b": null,
+      "a": 3,
+      "b": 2,
       "winner": null
     },
     "87": {
@@ -631,9 +631,11 @@ window.WORLD_CUP_STATE = {
       "winner": null
     },
     "88": {
-      "a": null,
-      "b": null,
-      "winner": null
+      "a": 1,
+      "b": 1,
+      "pa": 2,
+      "pb": 4,
+      "winner": "EGY"
     },
     "89": {
       "a": null,
