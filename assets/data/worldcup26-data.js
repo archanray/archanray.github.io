@@ -639,7 +639,7 @@ window.WORLD_CUP_STATE = {
     },
     "89": {
       "a": 0,
-      "b": 1,
+      "b": 2,
       "winner": null
     },
     "90": {
