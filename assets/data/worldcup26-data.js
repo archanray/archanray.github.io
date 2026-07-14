@@ -668,38 +668,40 @@ window.WORLD_CUP_STATE = {
       "winner": null
     },
     "95": {
-      "a": null,
-      "b": null,
+      "a": 3,
+      "b": 2,
       "winner": null
     },
     "96": {
-      "a": null,
-      "b": null,
-      "winner": null
+      "a": 0,
+      "b": 0,
+      "pa": 4,
+      "pb": 3,
+      "winner": "SUI"
     },
     "97": {
-      "a": null,
-      "b": null,
+      "a": 0,
+      "b": 2,
       "winner": null
     },
     "98": {
-      "a": null,
-      "b": null,
+      "a": 2,
+      "b": 1,
       "winner": null
     },
     "99": {
-      "a": null,
-      "b": null,
+      "a": 1,
+      "b": 2,
       "winner": null
     },
     "100": {
-      "a": null,
-      "b": null,
+      "a": 3,
+      "b": 1,
       "winner": null
     },
     "101": {
-      "a": null,
-      "b": null,
+      "a": 0,
+      "b": 0,
       "winner": null
     },
     "102": {
